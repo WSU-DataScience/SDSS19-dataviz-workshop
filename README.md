@@ -1,1 +1,1 @@
-# SDSS19-dataviz-workshop
+# Materials for the Data Visualization workshop at SDSS 2019
