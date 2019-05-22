@@ -1,0 +1,2245 @@
+Country,Year,Sex,EdAttain,Count
+Argentina,1970,Female,Less than primary completed,3030800
+Argentina,1970,Female,Primary completed,2688650
+Argentina,1970,Female,Secondary completed,494900
+Argentina,1970,Female,University completed,84100
+Argentina,1970,Male,Less than primary completed,2760600
+Argentina,1970,Male,Primary completed,2639500
+Argentina,1970,Male,Secondary completed,449000
+Argentina,1970,Male,University completed,209150
+Argentina,1980,Female,Less than primary completed,3075170
+Argentina,1980,Female,Primary completed,3457580
+Argentina,1980,Female,Secondary completed,985274
+Argentina,1980,Female,University completed,177900
+Argentina,1980,Male,Less than primary completed,2685656
+Argentina,1980,Male,Primary completed,3359370
+Argentina,1980,Male,Secondary completed,800448
+Argentina,1980,Male,University completed,341672
+Argentina,1991,Female,Less than primary completed,2562764
+Argentina,1991,Female,Primary completed,4231806
+Argentina,1991,Female,Secondary completed,1858676
+Argentina,1991,Female,University completed,334767
+Argentina,1991,Male,Less than primary completed,2166097
+Argentina,1991,Male,Primary completed,4113859
+Argentina,1991,Male,Secondary completed,1426095
+Argentina,1991,Male,University completed,482064
+Argentina,2001,Female,Less than primary completed,2029280
+Argentina,2001,Female,Primary completed,4584750
+Argentina,2001,Female,Secondary completed,3102080
+Argentina,2001,Female,University completed,662810
+Argentina,2001,Male,Less than primary completed,1720880
+Argentina,2001,Male,Primary completed,4453480
+Argentina,2001,Male,Secondary completed,2345490
+Argentina,2001,Male,University completed,720240
+Argentina,2010,Female,Less than primary completed,2043020
+Argentina,2010,Female,Primary completed,5599140
+Argentina,2010,Female,Secondary completed,3363790
+Argentina,2010,Female,University completed,995250
+Argentina,2010,Male,Less than primary completed,1798020
+Argentina,2010,Male,Primary completed,5420900
+Argentina,2010,Male,Secondary completed,2608800
+Argentina,2010,Male,University completed,887570
+Bolivia,1976,Female,Less than primary completed,757850
+Bolivia,1976,Female,Primary completed,123520
+Bolivia,1976,Female,Secondary completed,35700
+Bolivia,1976,Female,University completed,3120
+Bolivia,1976,Male,Less than primary completed,586590
+Bolivia,1976,Male,Primary completed,175630
+Bolivia,1976,Male,Secondary completed,59350
+Bolivia,1976,Male,University completed,18860
+Bolivia,1992,Female,Less than primary completed,695820
+Bolivia,1992,Female,Primary completed,323040
+Bolivia,1992,Female,Secondary completed,149590
+Bolivia,1992,Female,University completed,28220
+Bolivia,1992,Male,Less than primary completed,464480
+Bolivia,1992,Male,Primary completed,404840
+Bolivia,1992,Male,Secondary completed,193520
+Bolivia,1992,Male,University completed,61850
+Bolivia,2001,Female,Less than primary completed,877970
+Bolivia,2001,Female,Primary completed,443140
+Bolivia,2001,Female,Secondary completed,337860
+Bolivia,2001,Female,University completed,75020
+Bolivia,2001,Male,Less than primary completed,547900
+Bolivia,2001,Male,Primary completed,584380
+Bolivia,2001,Male,Secondary completed,396620
+Bolivia,2001,Male,University completed,113390
+Armenia,2001,Female,Less than primary completed,103610
+Armenia,2001,Female,Primary completed,93380
+Armenia,2001,Female,Secondary completed,631570
+Armenia,2001,Female,University completed,204140
+Armenia,2001,Male,Less than primary completed,65630
+Armenia,2001,Male,Primary completed,87310
+Armenia,2001,Male,Secondary completed,522080
+Armenia,2001,Male,University completed,188030
+Armenia,2011,Female,Less than primary completed,41020
+Armenia,2011,Female,Primary completed,59680
+Armenia,2011,Female,Secondary completed,688370
+Armenia,2011,Female,University completed,253030
+Armenia,2011,Male,Less than primary completed,25620
+Armenia,2011,Male,Primary completed,61130
+Armenia,2011,Male,Secondary completed,576110
+Armenia,2011,Male,University completed,221690
+Bangladesh,1991,Female,Less than primary completed,16159020
+Bangladesh,1991,Female,Primary completed,2515690
+Bangladesh,1991,Female,Secondary completed,452790
+Bangladesh,1991,Female,University completed,84790
+Bangladesh,1991,Male,Less than primary completed,13702890
+Bangladesh,1991,Male,Primary completed,4679580
+Bangladesh,1991,Male,Secondary completed,2196880
+Bangladesh,1991,Male,University completed,599020
+Bangladesh,2001,Female,Less than primary completed,18143340
+Bangladesh,2001,Female,Primary completed,5537010
+Bangladesh,2001,Female,Secondary completed,1247660
+Bangladesh,2001,Female,University completed,287510
+Bangladesh,2001,Male,Less than primary completed,15451440
+Bangladesh,2001,Male,Primary completed,7433960
+Bangladesh,2001,Male,Secondary completed,3254360
+Bangladesh,2001,Male,University completed,1239230
+Bangladesh,2011,Female,Less than primary completed,21094660
+Bangladesh,2011,Female,Primary completed,9374040
+Bangladesh,2011,Female,Secondary completed,2514540
+Bangladesh,2011,Female,University completed,772900
+Bangladesh,2011,Male,Less than primary completed,17271600
+Bangladesh,2011,Male,Primary completed,10303240
+Bangladesh,2011,Male,Secondary completed,4489860
+Bangladesh,2011,Male,University completed,2218080
+Austria,1971,Female,Primary completed,1901540
+Austria,1971,Female,Secondary completed,631620
+Austria,1971,Female,University completed,26730
+Austria,1971,Male,Primary completed,965710
+Austria,1971,Male,Secondary completed,1013010
+Austria,1971,Male,University completed,90610
+Austria,1981,Female,Primary completed,1647410
+Austria,1981,Female,Secondary completed,926740
+Austria,1981,Female,University completed,46720
+Austria,1981,Male,Primary completed,804130
+Austria,1981,Male,Secondary completed,1239390
+Austria,1981,Male,University completed,120400
+Austria,1991,Female,Primary completed,1436810
+Austria,1991,Female,Secondary completed,1296460
+Austria,1991,Female,University completed,86440
+Austria,1991,Male,Primary completed,687130
+Austria,1991,Male,Secondary completed,1610800
+Austria,1991,Male,University completed,166070
+Austria,2001,Female,Primary completed,1275800
+Austria,2001,Female,Secondary completed,1589270
+Austria,2001,Female,University completed,149560
+Austria,2001,Male,Primary completed,618040
+Austria,2001,Male,Secondary completed,1868620
+Austria,2001,Male,University completed,224370
+Austria,2011,Female,Primary completed,1031300
+Austria,2011,Female,Secondary completed,1737330
+Austria,2011,Female,University completed,446330
+Austria,2011,Male,Primary completed,511150
+Austria,2011,Male,Secondary completed,1846220
+Austria,2011,Male,University completed,584050
+Belarus,1999,Female,Less than primary completed,21890
+Belarus,1999,Female,Primary completed,1018880
+Belarus,1999,Female,Secondary completed,1968540
+Belarus,1999,Female,University completed,571000
+Belarus,1999,Male,Less than primary completed,4730
+Belarus,1999,Male,Primary completed,637530
+Belarus,1999,Male,Secondary completed,1757660
+Belarus,1999,Male,University completed,493280
+Belarus,2009,Female,Less than primary completed,47610
+Belarus,2009,Female,Primary completed,578120
+Belarus,2009,Female,Secondary completed,2154590
+Belarus,2009,Female,University completed,818590
+Belarus,2009,Male,Less than primary completed,10920
+Belarus,2009,Male,Primary completed,327260
+Belarus,2009,Male,Secondary completed,1896870
+Belarus,2009,Male,University completed,612240
+Germany,1970,Female,Less than primary completed,6920
+Germany,1970,Female,Primary completed,18864240
+Germany,1970,Female,Secondary completed,1943580
+Germany,1970,Female,University completed,498380
+Germany,1970,Male,Less than primary completed,7220
+Germany,1970,Male,Primary completed,13886900
+Germany,1970,Male,Secondary completed,3221580
+Germany,1970,Male,University completed,1004080
+Germany,1971,Female,Primary completed,3906644
+Germany,1971,Female,Secondary completed,1910144
+Germany,1971,Female,University completed,86260
+Germany,1971,Male,Primary completed,1328928
+Germany,1971,Male,Secondary completed,2913816
+Germany,1971,Male,University completed,243652
+Germany,1981,Female,Less than primary completed,212624
+Germany,1981,Female,Primary completed,2269940
+Germany,1981,Female,Secondary completed,3244128
+Germany,1981,Female,University completed,227564
+Germany,1981,Male,Less than primary completed,101148
+Germany,1981,Male,Primary completed,622188
+Germany,1981,Male,Secondary completed,3646000
+Germany,1981,Male,University completed,464396
+Germany,1987,Female,Primary completed,13026260
+Germany,1987,Female,Secondary completed,3055720
+Germany,1987,Female,University completed,970900
+Germany,1987,Male,Primary completed,11568700
+Germany,1987,Male,Secondary completed,4159040
+Germany,1987,Male,University completed,1520040
+Botswana,1981,Female,Less than primary completed,142440
+Botswana,1981,Female,Primary completed,28650
+Botswana,1981,Female,Secondary completed,3260
+Botswana,1981,Female,University completed,860
+Botswana,1981,Male,Less than primary completed,107680
+Botswana,1981,Male,Primary completed,25470
+Botswana,1981,Male,Secondary completed,4690
+Botswana,1981,Male,University completed,2080
+Botswana,1991,Female,Less than primary completed,166140
+Botswana,1991,Female,Primary completed,81270
+Botswana,1991,Female,Secondary completed,10520
+Botswana,1991,Female,University completed,3500
+Botswana,1991,Male,Less than primary completed,137200
+Botswana,1991,Male,Primary completed,62930
+Botswana,1991,Male,Secondary completed,14740
+Botswana,1991,Male,University completed,7150
+Botswana,2001,Female,Less than primary completed,163700
+Botswana,2001,Female,Primary completed,153260
+Botswana,2001,Female,Secondary completed,27730
+Botswana,2001,Female,University completed,18880
+Botswana,2001,Male,Less than primary completed,145100
+Botswana,2001,Male,Primary completed,115270
+Botswana,2001,Male,Secondary completed,32390
+Botswana,2001,Male,University completed,24800
+Botswana,2011,Female,Less than primary completed,135540
+Botswana,2011,Female,Primary completed,239930
+Botswana,2011,Female,Secondary completed,83310
+Botswana,2011,Female,University completed,34910
+Botswana,2011,Male,Less than primary completed,122580
+Botswana,2011,Male,Primary completed,208490
+Botswana,2011,Male,Secondary completed,74730
+Botswana,2011,Male,University completed,36190
+Burkina Faso,1985,Female,Less than primary completed,1481800
+Burkina Faso,1985,Female,Primary completed,24990
+Burkina Faso,1985,Female,Secondary completed,2690
+Burkina Faso,1985,Female,University completed,1320
+Burkina Faso,1985,Male,Less than primary completed,1085000
+Burkina Faso,1985,Male,Primary completed,59500
+Burkina Faso,1985,Male,Secondary completed,9080
+Burkina Faso,1985,Male,University completed,5550
+Burkina Faso,1996,Female,Less than primary completed,1818910
+Burkina Faso,1996,Female,Primary completed,62210
+Burkina Faso,1996,Female,Secondary completed,10680
+Burkina Faso,1996,Female,University completed,5910
+Burkina Faso,1996,Male,Less than primary completed,1389230
+Burkina Faso,1996,Male,Primary completed,113100
+Burkina Faso,1996,Male,Secondary completed,28550
+Burkina Faso,1996,Male,University completed,22510
+Burkina Faso,2006,Female,Less than primary completed,2393150
+Burkina Faso,2006,Female,Primary completed,136290
+Burkina Faso,2006,Female,Secondary completed,37830
+Burkina Faso,2006,Female,University completed,14570
+Burkina Faso,2006,Male,Less than primary completed,1832880
+Burkina Faso,2006,Male,Primary completed,219640
+Burkina Faso,2006,Male,Secondary completed,79360
+Burkina Faso,2006,Male,University completed,43880
+Cameroon,1976,Female,Less than primary completed,1370920
+Cameroon,1976,Female,Primary completed,73610
+Cameroon,1976,Female,Secondary completed,4510
+Cameroon,1976,Female,University completed,720
+Cameroon,1976,Male,Less than primary completed,988220
+Cameroon,1976,Male,Primary completed,264660
+Cameroon,1976,Male,Secondary completed,21510
+Cameroon,1976,Male,University completed,2740
+Cameroon,1987,Female,Less than primary completed,1319280
+Cameroon,1987,Female,Primary completed,294160
+Cameroon,1987,Female,Secondary completed,16540
+Cameroon,1987,Female,University completed,2500
+Cameroon,1987,Male,Less than primary completed,853450
+Cameroon,1987,Male,Primary completed,518470
+Cameroon,1987,Male,Secondary completed,59590
+Cameroon,1987,Male,University completed,10950
+Cameroon,2005,Female,Less than primary completed,1604560
+Cameroon,2005,Female,Primary completed,1353470
+Cameroon,2005,Female,Secondary completed,164330
+Cameroon,2005,Female,University completed,79310
+Cameroon,2005,Male,Less than primary completed,1069580
+Cameroon,2005,Male,Primary completed,1512380
+Cameroon,2005,Male,Secondary completed,312050
+Cameroon,2005,Male,University completed,137260
+Egypt,1986,Female,Less than primary completed,6060726.57
+Egypt,1986,Female,Primary completed,225770.77
+Egypt,1986,Female,Secondary completed,685244.14
+Egypt,1986,Female,University completed,165592.44
+Egypt,1986,Male,Less than primary completed,4865705.02
+Egypt,1986,Male,Primary completed,375698.19
+Egypt,1986,Male,Secondary completed,1302130.23
+Egypt,1986,Male,University completed,700230.33
+Egypt,1996,Female,Less than primary completed,9643477.99
+Egypt,1996,Female,Primary completed,393536.9
+Egypt,1996,Female,Secondary completed,1694814.06
+Egypt,1996,Female,University completed,728764.65
+Egypt,1996,Male,Less than primary completed,7582017.84
+Egypt,1996,Male,Primary completed,693932.17
+Egypt,1996,Male,Secondary completed,2719459.81
+Egypt,1996,Male,University completed,1541748.53
+Egypt,2006,Female,Less than primary completed,9903250
+Egypt,2006,Female,Primary completed,1038570
+Egypt,2006,Female,Secondary completed,3769790
+Egypt,2006,Female,University completed,1668250
+Egypt,2006,Male,Less than primary completed,7371190
+Egypt,2006,Male,Primary completed,1503140
+Egypt,2006,Male,Secondary completed,5282700
+Egypt,2006,Male,University completed,2736400
+Brazil,1960,Female,Less than primary completed,10634360
+Brazil,1960,Female,Primary completed,386320
+Brazil,1960,Female,Secondary completed,183040
+Brazil,1960,Female,University completed,23220
+Brazil,1960,Male,Less than primary completed,10564760
+Brazil,1960,Male,Primary completed,421960
+Brazil,1960,Male,Secondary completed,233140
+Brazil,1960,Male,University completed,167140
+Brazil,1970,Female,Less than primary completed,16161035
+Brazil,1970,Female,Primary completed,895235
+Brazil,1970,Female,Secondary completed,691165
+Brazil,1970,Female,University completed,122515
+Brazil,1970,Male,Less than primary completed,15720060
+Brazil,1970,Male,Primary completed,1105870
+Brazil,1970,Male,Secondary completed,599125
+Brazil,1970,Male,University completed,409575
+Brazil,1980,Female,Less than primary completed,19881645
+Brazil,1980,Female,Primary completed,2209020
+Brazil,1980,Female,Secondary completed,1829155
+Brazil,1980,Female,University completed,626700
+Brazil,1980,Male,Less than primary completed,18719695
+Brazil,1980,Male,Primary completed,2442145
+Brazil,1980,Male,Secondary completed,1602940
+Brazil,1980,Male,University completed,961400
+Brazil,1991,Female,Less than primary completed,23593356.69
+Brazil,1991,Female,Primary completed,4964082.81
+Brazil,1991,Female,Secondary completed,4480787.44
+Brazil,1991,Female,University completed,1778713.57
+Brazil,1991,Male,Less than primary completed,21668589
+Brazil,1991,Male,Primary completed,5013770.8
+Brazil,1991,Male,Secondary completed,3836427.14
+Brazil,1991,Male,University completed,1911208.71
+Brazil,2000,Female,Less than primary completed,25134086.17
+Brazil,2000,Female,Primary completed,8503558.73
+Brazil,2000,Female,Secondary completed,7990538.13
+Brazil,2000,Female,University completed,2852549.17
+Brazil,2000,Male,Less than primary completed,23521485.07
+Brazil,2000,Male,Primary completed,8275957.81
+Brazil,2000,Male,Secondary completed,6582779.17
+Brazil,2000,Male,University completed,2595892
+Brazil,2010,Female,Less than primary completed,23016683.18
+Brazil,2010,Female,Primary completed,13232924.15
+Brazil,2010,Female,Secondary completed,14311441.5
+Brazil,2010,Female,University completed,7194494.38
+Brazil,2010,Male,Less than primary completed,22014162.9
+Brazil,2010,Male,Primary completed,12965475.49
+Brazil,2010,Male,Secondary completed,12619690.75
+Brazil,2010,Male,University completed,5262487.96
+Cambodia,1998,Female,Less than primary completed,2061780
+Cambodia,1998,Female,Primary completed,358210
+Cambodia,1998,Female,Secondary completed,30000
+Cambodia,1998,Female,University completed,4230
+Cambodia,1998,Male,Less than primary completed,1227030
+Cambodia,1998,Male,Primary completed,658350
+Cambodia,1998,Male,Secondary completed,83650
+Cambodia,1998,Male,University completed,17440
+Cambodia,2008,Female,Less than primary completed,2357700
+Cambodia,2008,Female,Primary completed,728850
+Cambodia,2008,Female,Secondary completed,89070
+Cambodia,2008,Female,University completed,20030
+Cambodia,2008,Male,Less than primary completed,1416470
+Cambodia,2008,Male,Primary completed,1023460
+Cambodia,2008,Male,Secondary completed,204780
+Cambodia,2008,Male,University completed,58640
+Fiji,1966,Female,,78050
+Fiji,1966,Male,,83840
+Fiji,1976,Female,Less than primary completed,53460
+Fiji,1976,Female,Primary completed,44200
+Fiji,1976,Female,Secondary completed,2210
+Fiji,1976,Female,University completed,920
+Fiji,1976,Male,Less than primary completed,39580
+Fiji,1976,Male,Primary completed,58180
+Fiji,1976,Male,Secondary completed,4250
+Fiji,1976,Male,University completed,1870
+Fiji,1986,Female,Less than primary completed,52010
+Fiji,1986,Female,Primary completed,83600
+Fiji,1986,Female,Secondary completed,3390
+Fiji,1986,Female,University completed,4960
+Fiji,1986,Male,Less than primary completed,37750
+Fiji,1986,Male,Primary completed,93640
+Fiji,1986,Male,Secondary completed,7110
+Fiji,1986,Male,University completed,7940
+Fiji,1996,Female,Less than primary completed,35770
+Fiji,1996,Female,Primary completed,114600
+Fiji,1996,Female,Secondary completed,21390
+Fiji,1996,Female,University completed,2210
+Fiji,1996,Male,Less than primary completed,28000
+Fiji,1996,Male,Primary completed,113890
+Fiji,1996,Male,Secondary completed,27280
+Fiji,1996,Male,University completed,4040
+Fiji,2007,Female,Less than primary completed,20330
+Fiji,2007,Female,Primary completed,131830
+Fiji,2007,Female,Secondary completed,56820
+Fiji,2007,Female,University completed,4930
+Fiji,2007,Male,Less than primary completed,19460
+Fiji,2007,Male,Primary completed,132460
+Fiji,2007,Male,Secondary completed,62070
+Fiji,2007,Male,University completed,7390
+Iran,2006,Female,Less than primary completed,7144438.09
+Iran,2006,Female,Primary completed,4314782.79
+Iran,2006,Female,Secondary completed,2176657.79
+Iran,2006,Female,University completed,1099489.99
+Iran,2006,Male,Less than primary completed,4553637.56
+Iran,2006,Male,Primary completed,5872410.76
+Iran,2006,Male,Secondary completed,2937299.93
+Iran,2006,Male,University completed,1718139.07
+Iran,2011,Female,Less than primary completed,7362293.02
+Iran,2011,Female,Primary completed,6307641.86
+Iran,2011,Female,Secondary completed,4589775.68
+Iran,2011,Female,University completed,2679277.88
+Iran,2011,Male,Less than primary completed,4420956.15
+Iran,2011,Male,Primary completed,7920904.47
+Iran,2011,Male,Secondary completed,5195183.88
+Iran,2011,Male,University completed,3202482.67
+Canada,1971,Female,Less than primary completed,412600
+Canada,1971,Female,Primary completed,4524400
+Canada,1971,Female,Secondary completed,517200
+Canada,1971,Female,University completed,174500
+Canada,1971,Male,Less than primary completed,466200
+Canada,1971,Male,Primary completed,4076400
+Canada,1971,Male,Secondary completed,530400
+Canada,1971,Male,University completed,423200
+Canada,1981,Female,Less than primary completed,388350
+Canada,1981,Female,Primary completed,3192900
+Canada,1981,Female,Secondary completed,2719250
+Canada,1981,Female,University completed,855950
+Canada,1981,Male,Less than primary completed,361050
+Canada,1981,Male,Primary completed,2658100
+Canada,1981,Male,Secondary completed,2633100
+Canada,1981,Male,University completed,1152050
+Canada,1991,Female,Less than primary completed,307135.95
+Canada,1991,Female,Primary completed,3122821.02
+Canada,1991,Female,Secondary completed,4080958.53
+Canada,1991,Female,University completed,1510882.23
+Canada,1991,Male,Less than primary completed,265273.47
+Canada,1991,Male,Primary completed,2755224.45
+Canada,1991,Male,Secondary completed,3741725.79
+Canada,1991,Male,University completed,1680998.55
+Canada,2001,Female,Less than primary completed,281277.06
+Canada,2001,Female,Primary completed,2757310.99
+Canada,2001,Female,Secondary completed,4884162.1
+Canada,2001,Female,University completed,2405801.8
+Canada,2001,Male,Less than primary completed,220601.48
+Canada,2001,Male,Primary completed,2530132.66
+Canada,2001,Male,Secondary completed,4500767.7
+Canada,2001,Male,University completed,2339784.48
+Canada,2011,Female,Less than primary completed,2061912.29
+Canada,2011,Female,Secondary completed,6407785.08
+Canada,2011,Female,University completed,3412608.05
+Canada,2011,Male,Less than primary completed,1902654.32
+Canada,2011,Male,Secondary completed,6162527.89
+Canada,2011,Male,University completed,3023326.08
+Chile,1960,Female,Less than primary completed,917648
+Chile,1960,Female,Primary completed,550456
+Chile,1960,Female,Secondary completed,69969
+Chile,1960,Female,University completed,7802
+Chile,1960,Male,Less than primary completed,802278
+Chile,1960,Male,Primary completed,503976
+Chile,1960,Male,Secondary completed,85988
+Chile,1960,Male,University completed,26975
+Chile,1970,Female,Less than primary completed,1003250
+Chile,1970,Female,Primary completed,768550
+Chile,1970,Female,Secondary completed,157340
+Chile,1970,Female,University completed,20510
+Chile,1970,Male,Less than primary completed,863110
+Chile,1970,Male,Primary completed,701920
+Chile,1970,Male,Secondary completed,166960
+Chile,1970,Male,University completed,49940
+Chile,1982,Female,Less than primary completed,1096120
+Chile,1982,Female,Primary completed,1160280
+Chile,1982,Female,Secondary completed,418670
+Chile,1982,Female,University completed,46910
+Chile,1982,Male,Less than primary completed,938830
+Chile,1982,Male,Primary completed,1063580
+Chile,1982,Male,Secondary completed,387180
+Chile,1982,Male,University completed,86210
+Chile,1992,Female,Less than primary completed,1025830
+Chile,1992,Female,Primary completed,1633440
+Chile,1992,Female,Secondary completed,887180
+Chile,1992,Female,University completed,112320
+Chile,1992,Male,Less than primary completed,882220
+Chile,1992,Male,Primary completed,1522500
+Chile,1992,Male,Secondary completed,781100
+Chile,1992,Male,University completed,155360
+Chile,2002,Female,Less than primary completed,958700
+Chile,2002,Female,Primary completed,1847230
+Chile,2002,Female,Secondary completed,1531020
+Chile,2002,Female,University completed,207070
+Chile,2002,Male,Less than primary completed,794930
+Chile,2002,Male,Primary completed,1731410
+Chile,2002,Male,Secondary completed,1417940
+Chile,2002,Male,University completed,270160
+Colombia,1964,Female,Less than primary completed,2469350
+Colombia,1964,Female,Primary completed,663300
+Colombia,1964,Female,Secondary completed,35750
+Colombia,1964,Female,University completed,6000
+Colombia,1964,Male,Less than primary completed,2259600
+Colombia,1964,Male,Primary completed,598100
+Colombia,1964,Male,Secondary completed,68250
+Colombia,1964,Male,University completed,45850
+Colombia,1973,Female,Less than primary completed,2418470
+Colombia,1973,Female,Primary completed,980660
+Colombia,1973,Female,Secondary completed,120320
+Colombia,1973,Female,University completed,21950
+Colombia,1973,Male,Less than primary completed,2109810
+Colombia,1973,Male,Primary completed,876060
+Colombia,1973,Male,Secondary completed,145710
+Colombia,1973,Male,University completed,91400
+Colombia,1985,Female,Less than primary completed,2799410
+Colombia,1985,Female,Primary completed,2054877
+Colombia,1985,Female,Secondary completed,614137
+Colombia,1985,Female,University completed,191317
+Colombia,1985,Male,Less than primary completed,2581921
+Colombia,1985,Male,Primary completed,1885906
+Colombia,1985,Male,Secondary completed,606108
+Colombia,1985,Male,University completed,321111
+Colombia,1993,Female,Less than primary completed,2940580
+Colombia,1993,Female,Primary completed,3012350
+Colombia,1993,Female,Secondary completed,1492690
+Colombia,1993,Female,University completed,76170
+Colombia,1993,Male,Less than primary completed,2774660
+Colombia,1993,Male,Primary completed,2684890
+Colombia,1993,Male,Secondary completed,1418780
+Colombia,1993,Male,University completed,107170
+Colombia,2005,Female,Less than primary completed,3277535.89
+Colombia,2005,Female,Primary completed,3783331.98
+Colombia,2005,Female,Secondary completed,2567209.72
+Colombia,2005,Female,University completed,1070628.92
+Colombia,2005,Male,Less than primary completed,3071370.3
+Colombia,2005,Male,Primary completed,3371599.21
+Colombia,2005,Male,Secondary completed,2160511.46
+Colombia,2005,Male,University completed,985196.21
+China,2000,Female,Less than primary completed,94080400
+China,2000,Female,Primary completed,219024800
+China,2000,Female,Secondary completed,43115000
+China,2000,Female,University completed,3206400
+China,2000,Male,Less than primary completed,43218100
+China,2000,Male,Primary completed,252009900
+China,2000,Male,Secondary completed,64378100
+China,2000,Male,University completed,7024000
+China,1982,Female,Less than primary completed,141364400
+China,1982,Female,Primary completed,76042000
+China,1982,Female,Secondary completed,8571200
+China,1982,Female,University completed,1095200
+China,1982,Male,Less than primary completed,66090700
+China,1982,Male,Primary completed,152141000
+China,1982,Male,Secondary completed,18276200
+China,1982,Male,University completed,3151200
+China,1990,Female,Less than primary completed,150179700
+China,1990,Female,Primary completed,114861700
+China,1990,Female,Secondary completed,25670700
+China,1990,Female,University completed,1084100
+China,1990,Male,Less than primary completed,85329400
+China,1990,Male,Primary completed,174579300
+China,1990,Male,Secondary completed,44253400
+China,1990,Male,University completed,3294200
+Costa Rica,1963,Female,Less than primary completed,188768
+Costa Rica,1963,Female,Primary completed,44863
+Costa Rica,1963,Female,Secondary completed,6528
+Costa Rica,1963,Female,University completed,5576
+Costa Rica,1963,Male,Less than primary completed,186592
+Costa Rica,1963,Male,Primary completed,42891
+Costa Rica,1963,Male,Secondary completed,9452
+Costa Rica,1963,Male,University completed,5848
+Costa Rica,1973,Female,Less than primary completed,215800
+Costa Rica,1973,Female,Primary completed,84630
+Costa Rica,1973,Female,Secondary completed,17110
+Costa Rica,1973,Female,University completed,11580
+Costa Rica,1973,Male,Less than primary completed,210580
+Costa Rica,1973,Male,Primary completed,81060
+Costa Rica,1973,Male,Secondary completed,21230
+Costa Rica,1973,Male,University completed,12120
+Costa Rica,1984,Female,Less than primary completed,234630
+Costa Rica,1984,Female,Primary completed,177500
+Costa Rica,1984,Female,Secondary completed,68100
+Costa Rica,1984,Female,University completed,21650
+Costa Rica,1984,Male,Less than primary completed,214520
+Costa Rica,1984,Male,Primary completed,176830
+Costa Rica,1984,Male,Secondary completed,63690
+Costa Rica,1984,Male,University completed,30960
+Costa Rica,2000,Female,Less than primary completed,266360
+Costa Rica,2000,Female,Primary completed,430350
+Costa Rica,2000,Female,Secondary completed,166220
+Costa Rica,2000,Female,University completed,85500
+Costa Rica,2000,Male,Less than primary completed,252220
+Costa Rica,2000,Male,Primary completed,421990
+Costa Rica,2000,Male,Secondary completed,147480
+Costa Rica,2000,Male,University completed,90020
+Costa Rica,2011,Female,Less than primary completed,256460
+Costa Rica,2011,Female,Primary completed,560360
+Costa Rica,2011,Female,Secondary completed,211250
+Costa Rica,2011,Female,University completed,235440
+Costa Rica,2011,Male,Less than primary completed,232310
+Costa Rica,2011,Male,Primary completed,530150
+Costa Rica,2011,Male,Secondary completed,181370
+Costa Rica,2011,Male,University completed,206990
+Cuba,2002,Female,Less than primary completed,427990
+Cuba,2002,Female,Primary completed,1663220
+Cuba,2002,Female,Secondary completed,1148780
+Cuba,2002,Female,University completed,358340
+Cuba,2002,Male,Less than primary completed,319890
+Cuba,2002,Male,Primary completed,1713660
+Cuba,2002,Male,Secondary completed,1149770
+Cuba,2002,Male,University completed,335390
+Dominican Republic,1960,Female,Less than primary completed,477519.84
+Dominican Republic,1960,Female,Primary completed,29529.36
+Dominican Republic,1960,Female,Secondary completed,5443.2
+Dominican Republic,1960,Female,University completed,1149.12
+Dominican Republic,1960,Male,Less than primary completed,498763.44
+Dominican Republic,1960,Male,Primary completed,40143.6
+Dominican Republic,1960,Male,Secondary completed,6924.96
+Dominican Republic,1960,Male,University completed,5004.72
+Dominican Republic,1970,Female,Less than primary completed,487619
+Dominican Republic,1970,Female,Primary completed,75412
+Dominican Republic,1970,Female,Secondary completed,16524
+Dominican Republic,1970,Female,University completed,3233
+Dominican Republic,1970,Male,Less than primary completed,482531
+Dominican Republic,1970,Male,Primary completed,93370
+Dominican Republic,1970,Male,Secondary completed,21235
+Dominican Republic,1970,Male,University completed,7353
+Dominican Republic,1981,Female,Less than primary completed,745067
+Dominican Republic,1981,Female,Primary completed,186253
+Dominican Republic,1981,Female,Secondary completed,67501
+Dominican Republic,1981,Female,University completed,14733
+Dominican Republic,1981,Male,Less than primary completed,718747
+Dominican Republic,1981,Male,Primary completed,221935
+Dominican Republic,1981,Male,Secondary completed,68187
+Dominican Republic,1981,Male,University completed,25092
+Dominican Republic,2002,Female,Less than primary completed,898470
+Dominican Republic,2002,Female,Primary completed,656950
+Dominican Republic,2002,Female,Secondary completed,304800
+Dominican Republic,2002,Female,University completed,175180
+Dominican Republic,2002,Male,Less than primary completed,875000
+Dominican Republic,2002,Male,Primary completed,680010
+Dominican Republic,2002,Male,Secondary completed,253280
+Dominican Republic,2002,Male,University completed,154500
+Dominican Republic,2010,Female,Less than primary completed,868650
+Dominican Republic,2010,Female,Primary completed,704980
+Dominican Republic,2010,Female,Secondary completed,520230
+Dominican Republic,2010,Female,University completed,296400
+Dominican Republic,2010,Male,Less than primary completed,923980
+Dominican Republic,2010,Male,Primary completed,799020
+Dominican Republic,2010,Male,Secondary completed,442060
+Dominican Republic,2010,Male,University completed,213550
+Ecuador,1962,Female,Less than primary completed,661287
+Ecuador,1962,Female,Primary completed,156387
+Ecuador,1962,Female,Secondary completed,16533
+Ecuador,1962,Female,University completed,1386
+Ecuador,1962,Male,Less than primary completed,612480
+Ecuador,1962,Male,Primary completed,166617
+Ecuador,1962,Male,Secondary completed,22836
+Ecuador,1962,Male,University completed,9900
+Ecuador,1974,Female,Less than primary completed,838273.84
+Ecuador,1974,Female,Primary completed,267277.71
+Ecuador,1974,Female,Secondary completed,44827.29
+Ecuador,1974,Female,University completed,5836.18
+Ecuador,1974,Male,Less than primary completed,757565.42
+Ecuador,1974,Male,Primary completed,297896.22
+Ecuador,1974,Male,Secondary completed,51846.05
+Ecuador,1974,Male,University completed,24290.04
+Ecuador,1982,Female,Less than primary completed,826990
+Ecuador,1982,Female,Primary completed,434310
+Ecuador,1982,Female,Secondary completed,127560
+Ecuador,1982,Female,University completed,24480
+Ecuador,1982,Male,Less than primary completed,717190
+Ecuador,1982,Male,Primary completed,490260
+Ecuador,1982,Male,Secondary completed,124470
+Ecuador,1982,Male,University completed,60680
+Ecuador,1990,Female,Less than primary completed,859160
+Ecuador,1990,Female,Primary completed,706520
+Ecuador,1990,Female,Secondary completed,308090
+Ecuador,1990,Female,University completed,92320
+Ecuador,1990,Male,Less than primary completed,700970
+Ecuador,1990,Male,Primary completed,755080
+Ecuador,1990,Male,Secondary completed,301620
+Ecuador,1990,Male,University completed,140590
+Ecuador,2001,Female,Less than primary completed,1079610
+Ecuador,2001,Female,Primary completed,1051570
+Ecuador,2001,Female,Secondary completed,581710
+Ecuador,2001,Female,University completed,181600
+Ecuador,2001,Male,Less than primary completed,942030
+Ecuador,2001,Male,Primary completed,1085580
+Ecuador,2001,Male,Secondary completed,499840
+Ecuador,2001,Male,University completed,233330
+Ecuador,2010,Female,Less than primary completed,926610
+Ecuador,2010,Female,Primary completed,1340940
+Ecuador,2010,Female,Secondary completed,974990
+Ecuador,2010,Female,University completed,353900
+Ecuador,2010,Male,Less than primary completed,759380
+Ecuador,2010,Male,Primary completed,1385980
+Ecuador,2010,Male,Secondary completed,906150
+Ecuador,2010,Male,University completed,352280
+El Salvador,1992,Female,Less than primary completed,712200
+El Salvador,1992,Female,Primary completed,235790
+El Salvador,1992,Female,Secondary completed,124680
+El Salvador,1992,Female,University completed,17690
+El Salvador,1992,Male,Less than primary completed,543720
+El Salvador,1992,Male,Primary completed,262730
+El Salvador,1992,Male,Secondary completed,114180
+El Salvador,1992,Male,University completed,32750
+El Salvador,2007,Female,Less than primary completed,817370
+El Salvador,2007,Female,Primary completed,385340
+El Salvador,2007,Female,Secondary completed,240010
+El Salvador,2007,Female,University completed,67270
+El Salvador,2007,Male,Less than primary completed,558700
+El Salvador,2007,Male,Primary completed,368420
+El Salvador,2007,Male,Secondary completed,205000
+El Salvador,2007,Male,University completed,69600
+Ethiopia,1984,Female,Less than primary completed,6427070
+Ethiopia,1984,Female,Primary completed,48850
+Ethiopia,1984,Female,Secondary completed,26700
+Ethiopia,1984,Female,University completed,8980
+Ethiopia,1984,Male,Less than primary completed,5809150
+Ethiopia,1984,Male,Primary completed,183070
+Ethiopia,1984,Male,Secondary completed,94890
+Ethiopia,1984,Male,University completed,29320
+Ethiopia,1994,Female,Less than primary completed,8899878
+Ethiopia,1994,Female,Primary completed,221340
+Ethiopia,1994,Female,Secondary completed,134155
+Ethiopia,1994,Female,University completed,3878
+Ethiopia,1994,Male,Less than primary completed,7702561
+Ethiopia,1994,Male,Primary completed,699321
+Ethiopia,1994,Male,Secondary completed,329343
+Ethiopia,1994,Male,University completed,28956
+Ethiopia,2007,Female,Less than primary completed,11643507.44
+Ethiopia,2007,Female,Primary completed,649948.57
+Ethiopia,2007,Female,Secondary completed,363984.68
+Ethiopia,2007,Female,University completed,22426.1
+Ethiopia,2007,Male,Less than primary completed,10084398.59
+Ethiopia,2007,Male,Primary completed,1519371.79
+Ethiopia,2007,Male,Secondary completed,687278.55
+Ethiopia,2007,Male,University completed,103207.06
+Ghana,1984,Female,Less than primary completed,1885110
+Ghana,1984,Female,Primary completed,498820
+Ghana,1984,Female,Secondary completed,72940
+Ghana,1984,Female,University completed,1560
+Ghana,1984,Male,Less than primary completed,1221770
+Ghana,1984,Male,Primary completed,839030
+Ghana,1984,Male,Secondary completed,203560
+Ghana,1984,Male,University completed,10170
+Ghana,2000,Female,Less than primary completed,2533570
+Ghana,2000,Female,Primary completed,977110
+Ghana,2000,Female,Secondary completed,356180
+Ghana,2000,Female,University completed,46080
+Ghana,2000,Male,Less than primary completed,1738760
+Ghana,2000,Male,Primary completed,1285480
+Ghana,2000,Male,Secondary completed,590730
+Ghana,2000,Male,University completed,91860
+Ghana,2010,Female,Less than primary completed,2872380
+Ghana,2010,Female,Primary completed,1914800
+Ghana,2010,Female,Secondary completed,612530
+Ghana,2010,Female,University completed,62750
+Ghana,2010,Male,Less than primary completed,1617230
+Ghana,2010,Male,Primary completed,2069690
+Ghana,2010,Male,Secondary completed,975480
+Ghana,2010,Male,University completed,160610
+Guinea,1983,Female,Less than primary completed,972270
+Guinea,1983,Female,Primary completed,14940
+Guinea,1983,Female,Secondary completed,12910
+Guinea,1983,Female,University completed,2020
+Guinea,1983,Male,Less than primary completed,810090
+Guinea,1983,Male,Primary completed,32290
+Guinea,1983,Male,Secondary completed,39730
+Guinea,1983,Male,University completed,10810
+Guinea,1996,Female,Less than primary completed,1340530
+Guinea,1996,Female,Primary completed,58360
+Guinea,1996,Female,Secondary completed,18820
+Guinea,1996,Female,University completed,4400
+Guinea,1996,Male,Less than primary completed,1027640
+Guinea,1996,Male,Primary completed,139560
+Guinea,1996,Male,Secondary completed,56700
+Guinea,1996,Male,University completed,29570
+France,2011,Female,Less than primary completed,3526388.63
+France,2011,Female,Primary completed,5524952.51
+France,2011,Female,Secondary completed,8304354.58
+France,2011,Female,University completed,6361090.51
+France,2011,Male,Less than primary completed,2822132.79
+France,2011,Male,Primary completed,3703825.94
+France,2011,Male,Secondary completed,9243407.62
+France,2011,Male,University completed,5482876.12
+France,2006,Female,Less than primary completed,3921672.68
+France,2006,Female,Primary completed,6032426.86
+France,2006,Female,Secondary completed,7678971.74
+France,2006,Female,University completed,5230983.65
+France,2006,Male,Less than primary completed,3088794.71
+France,2006,Male,Primary completed,4006274.66
+France,2006,Male,Secondary completed,8675264.4
+France,2006,Male,University completed,4681613.09
+France,1962,Female,Less than primary completed,9175740
+France,1962,Female,Primary completed,4647120
+France,1962,Female,Secondary completed,970100
+France,1962,Female,University completed,184560
+France,1962,Male,Less than primary completed,7347060
+France,1962,Male,Primary completed,4037300
+France,1962,Male,Secondary completed,1399940
+France,1962,Male,University completed,475480
+France,1968,Female,Less than primary completed,7791200
+France,1968,Female,Primary completed,5757580
+France,1968,Female,Secondary completed,1716320
+France,1968,Female,University completed,284140
+France,1968,Male,Less than primary completed,6317420
+France,1968,Male,Primary completed,4639100
+France,1968,Male,Secondary completed,2170280
+France,1968,Male,University completed,745480
+France,1975,Female,Less than primary completed,7226360
+France,1975,Female,Primary completed,6109760
+France,1975,Female,Secondary completed,2300380
+France,1975,Female,University completed,850760
+France,1975,Male,Less than primary completed,5968040
+France,1975,Male,Primary completed,4489500
+France,1975,Male,Secondary completed,3391440
+France,1975,Male,University completed,1127580
+France,1982,Female,Less than primary completed,7247660
+France,1982,Female,Primary completed,5657240
+France,1982,Female,Secondary completed,3250840
+France,1982,Female,University completed,1020620
+France,1982,Male,Less than primary completed,5886660
+France,1982,Male,Primary completed,3984660
+France,1982,Male,Secondary completed,4224700
+France,1982,Male,University completed,1421620
+France,1990,Female,Less than primary completed,5980320
+France,1990,Female,Primary completed,6539160
+France,1990,Female,Secondary completed,4800192
+France,1990,Female,University completed,1969848
+France,1990,Male,Less than primary completed,4768704
+France,1990,Male,Primary completed,4457760
+France,1990,Male,Secondary completed,5906976
+France,1990,Male,University completed,2252808
+France,1999,Female,Less than primary completed,4337760
+France,1999,Female,Primary completed,6333360
+France,1999,Female,Secondary completed,6639060
+France,1999,Female,University completed,3617360
+France,1999,Male,Less than primary completed,3604820
+France,1999,Male,Primary completed,4175760
+France,1999,Male,Secondary completed,7630100
+France,1999,Male,University completed,3492120
+Greece,1971,Female,Less than primary completed,1238050
+Greece,1971,Female,Primary completed,988340
+Greece,1971,Female,Secondary completed,243130
+Greece,1971,Female,University completed,51960
+Greece,1971,Male,Less than primary completed,726340
+Greece,1971,Male,Primary completed,1272480
+Greece,1971,Male,Secondary completed,301350
+Greece,1971,Male,University completed,136980
+Greece,1981,Female,Less than primary completed,1093770
+Greece,1981,Female,Primary completed,1384830
+Greece,1981,Female,Secondary completed,395320
+Greece,1981,Female,University completed,140440
+Greece,1981,Male,Less than primary completed,570100
+Greece,1981,Male,Primary completed,1566270
+Greece,1981,Male,Secondary completed,408690
+Greece,1981,Male,University completed,268970
+Greece,1991,Female,Less than primary completed,818650
+Greece,1991,Female,Primary completed,1571810
+Greece,1991,Female,Secondary completed,671950
+Greece,1991,Female,University completed,220500
+Greece,1991,Male,Less than primary completed,425390
+Greece,1991,Male,Primary completed,1572980
+Greece,1991,Male,Secondary completed,730100
+Greece,1991,Male,University completed,340900
+Greece,2001,Female,Less than primary completed,627270
+Greece,2001,Female,Primary completed,1608350
+Greece,2001,Female,Secondary completed,1030180
+Greece,2001,Female,University completed,515520
+Greece,2001,Male,Less than primary completed,313700
+Greece,2001,Male,Primary completed,1547620
+Greece,2001,Male,Secondary completed,1115690
+Greece,2001,Male,University completed,569240
+Greece,2011,Female,Less than primary completed,441730
+Greece,2011,Female,Primary completed,1508240
+Greece,2011,Female,Secondary completed,1547410
+Greece,2011,Female,University completed,606240
+Greece,2011,Male,Less than primary completed,223170
+Greece,2011,Male,Primary completed,1405620
+Greece,2011,Male,Secondary completed,1581710
+Greece,2011,Male,University completed,583650
+Hungary,1970,Female,Less than primary completed,714360
+Hungary,1970,Female,Primary completed,2362700
+Hungary,1970,Female,Secondary completed,307280
+Hungary,1970,Female,University completed,40520
+Hungary,1970,Male,Less than primary completed,544040
+Hungary,1970,Male,Primary completed,1965100
+Hungary,1970,Male,Secondary completed,370120
+Hungary,1970,Male,University completed,130640
+Hungary,1980,Female,Less than primary completed,509000
+Hungary,1980,Female,Primary completed,2302140
+Hungary,1980,Female,Secondary completed,781360
+Hungary,1980,Female,University completed,77200
+Hungary,1980,Male,Less than primary completed,355500
+Hungary,1980,Male,Primary completed,1707080
+Hungary,1980,Male,Secondary completed,1002560
+Hungary,1980,Male,University completed,168260
+Hungary,1990,Female,Less than primary completed,325480
+Hungary,1990,Female,Primary completed,2050480
+Hungary,1990,Female,Secondary completed,1168560
+Hungary,1990,Female,University completed,105760
+Hungary,1990,Male,Less than primary completed,201420
+Hungary,1990,Male,Primary completed,1435820
+Hungary,1990,Male,Secondary completed,1317960
+Hungary,1990,Male,University completed,196000
+Hungary,2001,Female,Less than primary completed,613720
+Hungary,2001,Female,Primary completed,1315820
+Hungary,2001,Female,Secondary completed,1424380
+Hungary,2001,Female,University completed,445720
+Hungary,2001,Male,Less than primary completed,273400
+Hungary,2001,Male,Primary completed,946040
+Hungary,2001,Male,Secondary completed,1563360
+Hungary,2001,Male,University completed,443800
+Hungary,2011,Female,Less than primary completed,72400
+Hungary,2011,Female,Primary completed,1267100
+Hungary,2011,Female,Secondary completed,1791580
+Hungary,2011,Female,University completed,791180
+Hungary,2011,Male,Less than primary completed,37900
+Hungary,2011,Male,Primary completed,733720
+Hungary,2011,Male,Secondary completed,1959060
+Hungary,2011,Male,University completed,623700
+Ireland,1971,Female,Primary completed,532790
+Ireland,1971,Female,Secondary completed,42900
+Ireland,1971,Female,University completed,10560
+Ireland,1971,Male,Primary completed,549930
+Ireland,1971,Male,Secondary completed,38420
+Ireland,1971,Male,University completed,25090
+Ireland,1979,Female,,888840
+Ireland,1979,Male,,869220
+Ireland,1981,Female,Less than primary completed,6490
+Ireland,1981,Female,Primary completed,804920
+Ireland,1981,Female,Secondary completed,52390
+Ireland,1981,Female,University completed,220
+Ireland,1981,Male,Less than primary completed,7610
+Ireland,1981,Male,Primary completed,786920
+Ireland,1981,Male,Secondary completed,50480
+Ireland,1981,Male,University completed,620
+Ireland,1986,Female,,971060
+Ireland,1986,Male,,932430
+Ireland,1991,Female,Primary completed,564690
+Ireland,1991,Female,Secondary completed,342280
+Ireland,1991,Female,University completed,79970
+Ireland,1991,Male,Primary completed,550910
+Ireland,1991,Male,Secondary completed,282310
+Ireland,1991,Male,University completed,92370
+Ireland,1996,Female,Primary completed,547610
+Ireland,1996,Female,Secondary completed,416040
+Ireland,1996,Female,University completed,102740
+Ireland,1996,Male,Primary completed,540980
+Ireland,1996,Male,Secondary completed,348520
+Ireland,1996,Male,University completed,119130
+Ireland,2002,Female,Primary completed,532570
+Ireland,2002,Female,Secondary completed,454930
+Ireland,2002,Female,University completed,196860
+Ireland,2002,Male,Primary completed,547150
+Ireland,2002,Male,Secondary completed,400820
+Ireland,2002,Male,University completed,189700
+Ireland,2006,Female,Primary completed,515580
+Ireland,2006,Female,Secondary completed,527130
+Ireland,2006,Female,University completed,277100
+Ireland,2006,Male,Primary completed,551390
+Ireland,2006,Male,Secondary completed,484590
+Ireland,2006,Male,University completed,253190
+Ireland,2011,Female,Primary completed,457870
+Ireland,2011,Female,Secondary completed,583580
+Ireland,2011,Female,University completed,427270
+Ireland,2011,Male,Primary completed,508300
+Ireland,2011,Male,Secondary completed,554220
+Ireland,2011,Male,University completed,344870
+Haiti,1971,Female,Less than primary completed,874260
+Haiti,1971,Female,Primary completed,35550
+Haiti,1971,Female,Secondary completed,5050
+Haiti,1971,Female,University completed,440
+Haiti,1971,Male,Less than primary completed,749420
+Haiti,1971,Male,Primary completed,53450
+Haiti,1971,Male,Secondary completed,6930
+Haiti,1971,Male,University completed,2100
+Haiti,1982,Female,Less than primary completed,785560
+Haiti,1982,Female,Primary completed,214320
+Haiti,1982,Female,Secondary completed,19400
+Haiti,1982,Female,University completed,4280
+Haiti,1982,Male,Less than primary completed,528520
+Haiti,1982,Male,Primary completed,243600
+Haiti,1982,Male,Secondary completed,29880
+Haiti,1982,Male,University completed,9800
+Haiti,2003,Female,Less than primary completed,1340620
+Haiti,2003,Female,Primary completed,294920
+Haiti,2003,Female,Secondary completed,207390
+Haiti,2003,Female,University completed,11350
+Haiti,2003,Male,Less than primary completed,1059040
+Haiti,2003,Male,Primary completed,355910
+Haiti,2003,Male,Secondary completed,222770
+Haiti,2003,Male,University completed,24040
+Panama,1960,Female,Less than primary completed,120040
+Panama,1960,Female,Primary completed,57660
+Panama,1960,Female,Secondary completed,8840
+Panama,1960,Female,University completed,1760
+Panama,1960,Male,Less than primary completed,129900
+Panama,1960,Male,Primary completed,58300
+Panama,1960,Male,Secondary completed,8780
+Panama,1960,Male,University completed,4180
+Panama,1970,Female,Less than primary completed,160710
+Panama,1970,Female,Primary completed,88380
+Panama,1970,Female,Secondary completed,18780
+Panama,1970,Female,University completed,5320
+Panama,1970,Male,Less than primary completed,169420
+Panama,1970,Male,Primary completed,92410
+Panama,1970,Male,Secondary completed,19110
+Panama,1970,Male,University completed,9040
+Panama,1980,Female,Less than primary completed,173670
+Panama,1980,Female,Primary completed,149070
+Panama,1980,Female,Secondary completed,48930
+Panama,1980,Female,University completed,16760
+Panama,1980,Male,Less than primary completed,175470
+Panama,1980,Male,Primary completed,153770
+Panama,1980,Male,Secondary completed,43350
+Panama,1980,Male,University completed,21020
+Panama,1990,Female,Less than primary completed,162510
+Panama,1990,Female,Primary completed,209950
+Panama,1990,Female,Secondary completed,96980
+Panama,1990,Female,University completed,36960
+Panama,1990,Male,Less than primary completed,165420
+Panama,1990,Male,Primary completed,228770
+Panama,1990,Male,Secondary completed,88030
+Panama,1990,Male,University completed,35230
+Panama,2000,Female,Less than primary completed,165500
+Panama,2000,Female,Primary completed,287630
+Panama,2000,Female,Secondary completed,166240
+Panama,2000,Female,University completed,79440
+Panama,2000,Male,Less than primary completed,164000
+Panama,2000,Male,Primary completed,317510
+Panama,2000,Male,Secondary completed,152360
+Panama,2000,Male,University completed,66050
+Panama,2010,Female,Less than primary completed,160060
+Panama,2010,Female,Primary completed,336680
+Panama,2010,Female,Secondary completed,244470
+Panama,2010,Female,University completed,170020
+Panama,2010,Male,Less than primary completed,155210
+Panama,2010,Male,Primary completed,382660
+Panama,2010,Male,Secondary completed,237860
+Panama,2010,Male,University completed,121300
+Paraguay,1962,Female,Less than primary completed,235420
+Paraguay,1962,Female,Primary completed,26800
+Paraguay,1962,Female,Secondary completed,11040
+Paraguay,1962,Female,University completed,680
+Paraguay,1962,Male,Less than primary completed,251600
+Paraguay,1962,Male,Primary completed,39660
+Paraguay,1962,Male,Secondary completed,10240
+Paraguay,1962,Male,University completed,4600
+Paraguay,1972,Female,Less than primary completed,345420
+Paraguay,1972,Female,Primary completed,66380
+Paraguay,1972,Female,Secondary completed,18890
+Paraguay,1972,Female,University completed,3110
+Paraguay,1972,Male,Less than primary completed,301450
+Paraguay,1972,Male,Primary completed,73730
+Paraguay,1972,Male,Secondary completed,17050
+Paraguay,1972,Male,University completed,8150
+Paraguay,1982,Female,Less than primary completed,385500
+Paraguay,1982,Female,Primary completed,152680
+Paraguay,1982,Female,Secondary completed,24510
+Paraguay,1982,Female,University completed,8730
+Paraguay,1982,Male,Less than primary completed,356610
+Paraguay,1982,Male,Primary completed,176580
+Paraguay,1982,Male,Secondary completed,15980
+Paraguay,1982,Male,University completed,16170
+Paraguay,1992,Female,Less than primary completed,454310
+Paraguay,1992,Female,Primary completed,267240
+Paraguay,1992,Female,Secondary completed,95320
+Paraguay,1992,Female,University completed,25420
+Paraguay,1992,Male,Less than primary completed,418740
+Paraguay,1992,Male,Primary completed,291780
+Paraguay,1992,Male,Secondary completed,91570
+Paraguay,1992,Male,University completed,33570
+Paraguay,2002,Female,Less than primary completed,475743.57
+Paraguay,2002,Female,Primary completed,395669.54
+Paraguay,2002,Female,Secondary completed,162761.23
+Paraguay,2002,Female,University completed,55353.39
+Paraguay,2002,Male,Less than primary completed,439100.7
+Paraguay,2002,Male,Primary completed,440267.94
+Paraguay,2002,Male,Secondary completed,157309.52
+Paraguay,2002,Male,University completed,58558.36
+India,1983,Female,Less than primary completed,119737649
+India,1983,Female,Primary completed,16187212
+India,1983,Female,Secondary completed,4039100
+India,1983,Female,University completed,1657492
+India,1983,Male,Less than primary completed,88749302
+India,1983,Male,Primary completed,36345036
+India,1983,Male,Secondary completed,13660243
+India,1983,Male,University completed,5798517
+India,1987,Female,Less than primary completed,123944095
+India,1987,Female,Primary completed,18171010
+India,1987,Female,Secondary completed,5650058
+India,1987,Female,University completed,2455686
+India,1987,Male,Less than primary completed,91837223
+India,1987,Male,Primary completed,38635387
+India,1987,Male,Secondary completed,16622691
+India,1987,Male,University completed,7376898
+India,1993,Female,Less than primary completed,134638575.4
+India,1993,Female,Primary completed,24791721.59
+India,1993,Female,Secondary completed,9577421.05
+India,1993,Female,University completed,4077913.3
+India,1993,Male,Less than primary completed,97192195.61
+India,1993,Male,Primary completed,44794578.86
+India,1993,Male,Secondary completed,23932262.62
+India,1993,Male,University completed,11799923.28
+India,1999,Female,Less than primary completed,151538955.7
+India,1999,Female,Primary completed,33991220.03
+India,1999,Female,Secondary completed,15495211.28
+India,1999,Female,University completed,6990185.39
+India,1999,Male,Less than primary completed,104521620.2
+India,1999,Male,Primary completed,54760480.31
+India,1999,Male,Secondary completed,34994217.76
+India,1999,Male,University completed,17274977.52
+India,2004,Female,Less than primary completed,156473994.9
+India,2004,Female,Primary completed,44503344.77
+India,2004,Female,Secondary completed,20393474.8
+India,2004,Female,University completed,9437215.85
+India,2004,Male,Less than primary completed,102195315.5
+India,2004,Male,Primary completed,68060642.86
+India,2004,Male,Secondary completed,41773829.22
+India,2004,Male,University completed,20063893.42
+India,2009,Female,Less than primary completed,156006966.6
+India,2009,Female,Primary completed,56220317.07
+India,2009,Female,Secondary completed,30639804.53
+India,2009,Female,University completed,14339677.9
+India,2009,Male,Less than primary completed,95851871.19
+India,2009,Male,Primary completed,79171581.63
+India,2009,Male,Secondary completed,56729843.51
+India,2009,Male,University completed,27080558.51
+Indonesia,1995,Female,Less than primary completed,20821629
+Indonesia,1995,Female,Primary completed,14135768
+Indonesia,1995,Female,Secondary completed,4646033
+Indonesia,1995,Female,University completed,511349
+Indonesia,1995,Male,Less than primary completed,13899160
+Indonesia,1995,Male,Primary completed,16475124
+Indonesia,1995,Male,Secondary completed,7376215
+Indonesia,1995,Male,University completed,1049795
+Indonesia,2000,Female,Less than primary completed,16257810
+Indonesia,2000,Female,Primary completed,25056450
+Indonesia,2000,Female,Secondary completed,7414080
+Indonesia,2000,Female,University completed,983210
+Indonesia,2000,Male,Less than primary completed,11507120
+Indonesia,2000,Male,Primary completed,25852110
+Indonesia,2000,Male,Secondary completed,10768920
+Indonesia,2000,Male,University completed,1703280
+Indonesia,2005,Female,Less than primary completed,19758851
+Indonesia,2005,Female,Primary completed,25272950
+Indonesia,2005,Female,Secondary completed,9741755
+Indonesia,2005,Female,University completed,1536353
+Indonesia,2005,Male,Less than primary completed,13716537
+Indonesia,2005,Male,Primary completed,26160657
+Indonesia,2005,Male,Secondary completed,13555861
+Indonesia,2005,Male,University completed,2425031
+Indonesia,2010,Female,Less than primary completed,14221740
+Indonesia,2010,Female,Primary completed,33660010
+Indonesia,2010,Female,Secondary completed,13483110
+Indonesia,2010,Female,University completed,2811860
+Indonesia,2010,Male,Less than primary completed,9288790
+Indonesia,2010,Male,Primary completed,33183480
+Indonesia,2010,Male,Secondary completed,17253370
+Indonesia,2010,Male,University completed,3696690
+Indonesia,1971,Female,Less than primary completed,20970988
+Indonesia,1971,Female,Primary completed,3053967
+Indonesia,1971,Female,Secondary completed,246144
+Indonesia,1971,Female,University completed,20463
+Indonesia,1971,Male,Less than primary completed,15443662
+Indonesia,1971,Male,Primary completed,6186142
+Indonesia,1971,Male,Secondary completed,782658
+Indonesia,1971,Male,University completed,77883
+Indonesia,1976,Female,Less than primary completed,22093898
+Indonesia,1976,Female,Primary completed,2933004
+Indonesia,1976,Female,Secondary completed,465011
+Indonesia,1976,Female,University completed,24152
+Indonesia,1976,Male,Less than primary completed,17040387
+Indonesia,1976,Male,Primary completed,5560479
+Indonesia,1976,Male,Secondary completed,1159739
+Indonesia,1976,Male,University completed,104939
+Indonesia,1980,Female,Less than primary completed,23957722
+Indonesia,1980,Female,Primary completed,4799586
+Indonesia,1980,Female,Secondary completed,954357
+Indonesia,1980,Female,University completed,43317
+Indonesia,1980,Male,Less than primary completed,18529671
+Indonesia,1980,Male,Primary completed,7783006
+Indonesia,1980,Male,Secondary completed,2191344
+Indonesia,1980,Male,University completed,161497
+Indonesia,1985,Female,Less than primary completed,25032482
+Indonesia,1985,Female,Primary completed,8072596
+Indonesia,1985,Female,Secondary completed,1684637
+Indonesia,1985,Female,University completed,80671
+Indonesia,1985,Male,Less than primary completed,18186903
+Indonesia,1985,Male,Primary completed,11614598
+Indonesia,1985,Male,Secondary completed,3655082
+Indonesia,1985,Male,University completed,294529
+Indonesia,1990,Female,Less than primary completed,25250853
+Indonesia,1990,Female,Primary completed,11513587
+Indonesia,1990,Female,Secondary completed,3105712
+Indonesia,1990,Female,University completed,293685
+Indonesia,1990,Male,Less than primary completed,17593018
+Indonesia,1990,Male,Primary completed,14737575
+Indonesia,1990,Male,Secondary completed,5553337
+Indonesia,1990,Male,University completed,719423
+Iran,2006,Female,Less than primary completed,7144438.09
+Iran,2006,Female,Primary completed,4314782.79
+Iran,2006,Female,Secondary completed,2176657.79
+Iran,2006,Female,University completed,1099489.99
+Iran,2006,Male,Less than primary completed,4553637.56
+Iran,2006,Male,Primary completed,5872410.76
+Iran,2006,Male,Secondary completed,2937299.93
+Iran,2006,Male,University completed,1718139.07
+Iran,2011,Female,Less than primary completed,7362293.02
+Iran,2011,Female,Primary completed,6307641.86
+Iran,2011,Female,Secondary completed,4589775.68
+Iran,2011,Female,University completed,2679277.88
+Iran,2011,Male,Less than primary completed,4420956.15
+Iran,2011,Male,Primary completed,7920904.47
+Iran,2011,Male,Secondary completed,5195183.88
+Iran,2011,Male,University completed,3202482.67
+Iraq,1997,Female,Less than primary completed,2149340
+Iraq,1997,Female,Primary completed,831140
+Iraq,1997,Female,Secondary completed,338470
+Iraq,1997,Female,University completed,147160
+Iraq,1997,Male,Less than primary completed,1214970
+Iraq,1997,Male,Primary completed,1210610
+Iraq,1997,Male,Secondary completed,559860
+Iraq,1997,Male,University completed,326740
+Israel,1972,Female,Less than primary completed,168300
+Israel,1972,Female,Primary completed,207610
+Israel,1972,Female,Secondary completed,325830
+Israel,1972,Female,University completed,30310
+Israel,1972,Male,Less than primary completed,85460
+Israel,1972,Male,Primary completed,213650
+Israel,1972,Male,Secondary completed,349170
+Israel,1972,Male,University completed,46310
+Israel,1983,Female,Less than primary completed,278980
+Israel,1983,Female,Primary completed,251190
+Israel,1983,Female,Secondary completed,358330
+Israel,1983,Female,University completed,82990
+Israel,1983,Male,Less than primary completed,203900
+Israel,1983,Male,Primary completed,247710
+Israel,1983,Male,Secondary completed,322110
+Israel,1983,Male,University completed,114440
+Israel,1995,Female,Less than primary completed,301670
+Israel,1995,Female,Primary completed,256920
+Israel,1995,Female,Secondary completed,715010
+Israel,1995,Female,University completed,267600
+Israel,1995,Male,Less than primary completed,233720
+Israel,1995,Male,Primary completed,262850
+Israel,1995,Male,Secondary completed,630230
+Israel,1995,Male,University completed,268880
+Jordan,2004,Female,Less than primary completed,241950
+Jordan,2004,Female,Primary completed,330380
+Jordan,2004,Female,Secondary completed,334790
+Jordan,2004,Female,University completed,100760
+Jordan,2004,Male,Less than primary completed,146590
+Jordan,2004,Male,Primary completed,399820
+Jordan,2004,Male,Secondary completed,331060
+Jordan,2004,Male,University completed,174650
+Kyrgyz Republic,1999,Female,Less than primary completed,153280
+Kyrgyz Republic,1999,Female,Primary completed,132960
+Kyrgyz Republic,1999,Female,Secondary completed,678260
+Kyrgyz Republic,1999,Female,University completed,160730
+Kyrgyz Republic,1999,Male,Less than primary completed,79740
+Kyrgyz Republic,1999,Male,Primary completed,131300
+Kyrgyz Republic,1999,Male,Secondary completed,666790
+Kyrgyz Republic,1999,Male,University completed,139770
+Kyrgyz Republic,2009,Female,Less than primary completed,76400
+Kyrgyz Republic,2009,Female,Primary completed,169840
+Kyrgyz Republic,2009,Female,Secondary completed,908240
+Kyrgyz Republic,2009,Female,University completed,241540
+Kyrgyz Republic,2009,Male,Less than primary completed,40670
+Kyrgyz Republic,2009,Male,Primary completed,211640
+Kyrgyz Republic,2009,Male,Secondary completed,831630
+Kyrgyz Republic,2009,Male,University completed,197890
+Italy,2001,Female,Less than primary completed,2370580
+Italy,2001,Female,Primary completed,13165200
+Italy,2001,Female,Secondary completed,6156400
+Italy,2001,Female,University completed,1778700
+Italy,2001,Male,Less than primary completed,1170600
+Italy,2001,Male,Primary completed,12129180
+Italy,2001,Male,Secondary completed,6043660
+Italy,2001,Male,University completed,1839020
+Netherlands,1960,Female,,3205029.67
+Netherlands,1960,Male,,3035433.94
+Netherlands,1971,Female,,3692291.8
+Netherlands,1971,Male,,3515501.07
+Netherlands,2001,Female,,5671050.49
+Netherlands,2001,Male,,5394521.17
+Poland,1978,Female,Less than primary completed,1997810
+Poland,1978,Female,Primary completed,6087130
+Poland,1978,Female,Secondary completed,2200440
+Poland,1978,Female,University completed,478220
+Poland,1978,Male,Less than primary completed,1147560
+Poland,1978,Male,Primary completed,6037730
+Poland,1978,Male,Secondary completed,1708440
+Poland,1978,Male,University completed,698830
+Poland,1988,Female,Less than primary completed,1076730
+Poland,1988,Female,Primary completed,6729900
+Poland,1988,Female,Secondary completed,3491260
+Poland,1988,Female,University completed,850630
+Poland,1988,Male,Less than primary completed,552130
+Poland,1988,Male,Primary completed,7070440
+Poland,1988,Male,Secondary completed,2407320
+Poland,1988,Male,University completed,977660
+Poland,2002,Female,Less than primary completed,517670
+Poland,2002,Female,Primary completed,7160830
+Poland,2002,Female,Secondary completed,3612850
+Poland,2002,Female,University completed,1617720
+Poland,2002,Male,Less than primary completed,228200
+Poland,2002,Male,Primary completed,7487410
+Poland,2002,Male,Secondary completed,2324700
+Poland,2002,Male,University completed,1386310
+Poland,2011,Female,Less than primary completed,280110
+Poland,2011,Female,Primary completed,7308320
+Poland,2011,Female,Secondary completed,3651460
+Poland,2011,Female,University completed,2697930
+Poland,2011,Male,Less than primary completed,122900
+Poland,2011,Male,Primary completed,7839830
+Poland,2011,Male,Secondary completed,2558730
+Poland,2011,Male,University completed,1861990
+Jamaica,1982,Female,Less than primary completed,93880
+Jamaica,1982,Female,Primary completed,247410
+Jamaica,1982,Female,Secondary completed,44560
+Jamaica,1982,Female,University completed,4130
+Jamaica,1982,Male,Less than primary completed,98430
+Jamaica,1982,Male,Primary completed,216580
+Jamaica,1982,Male,Secondary completed,36110
+Jamaica,1982,Male,University completed,5650
+Jamaica,1991,Female,Less than primary completed,60120
+Jamaica,1991,Female,Primary completed,364150
+Jamaica,1991,Female,Secondary completed,90880
+Jamaica,1991,Female,University completed,8200
+Jamaica,1991,Male,Less than primary completed,67190
+Jamaica,1991,Male,Primary completed,349310
+Jamaica,1991,Male,Secondary completed,49750
+Jamaica,1991,Male,University completed,8610
+Jamaica,2001,Female,Less than primary completed,40575.44
+Jamaica,2001,Female,Primary completed,246993.03
+Jamaica,2001,Female,Secondary completed,336071.48
+Jamaica,2001,Female,University completed,18691.88
+Jamaica,2001,Male,Less than primary completed,45002.44
+Jamaica,2001,Male,Primary completed,257115.71
+Jamaica,2001,Male,Secondary completed,279662.08
+Jamaica,2001,Male,University completed,15742.2
+Nicaragua,1971,Female,Less than primary completed,265970
+Nicaragua,1971,Female,Primary completed,41530
+Nicaragua,1971,Female,Secondary completed,6760
+Nicaragua,1971,Female,University completed,1230
+Nicaragua,1971,Male,Less than primary completed,228380
+Nicaragua,1971,Male,Primary completed,36800
+Nicaragua,1971,Male,Secondary completed,9180
+Nicaragua,1971,Male,University completed,5630
+Nicaragua,1995,Female,Less than primary completed,501750
+Nicaragua,1995,Female,Primary completed,193470
+Nicaragua,1995,Female,Secondary completed,71040
+Nicaragua,1995,Female,University completed,26970
+Nicaragua,1995,Male,Less than primary completed,446550
+Nicaragua,1995,Male,Primary completed,180130
+Nicaragua,1995,Male,Secondary completed,58800
+Nicaragua,1995,Male,University completed,33790
+Nicaragua,2005,Female,Less than primary completed,580470
+Nicaragua,2005,Female,Primary completed,296880
+Nicaragua,2005,Female,Secondary completed,149170
+Nicaragua,2005,Female,University completed,70220
+Nicaragua,2005,Male,Less than primary completed,521780
+Nicaragua,2005,Male,Primary completed,274120
+Nicaragua,2005,Male,Secondary completed,118030
+Nicaragua,2005,Male,University completed,71040
+Venezuela,1971,Female,Less than primary completed,1228114
+Venezuela,1971,Female,Primary completed,453918
+Venezuela,1971,Female,Secondary completed,57238
+Venezuela,1971,Female,University completed,9430
+Venezuela,1971,Male,Less than primary completed,1077700
+Venezuela,1971,Male,Primary completed,505558
+Venezuela,1971,Male,Secondary completed,88442
+Venezuela,1971,Male,University completed,38960
+Venezuela,1981,Female,Less than primary completed,1454260
+Venezuela,1981,Female,Primary completed,1049250
+Venezuela,1981,Female,Secondary completed,263680
+Venezuela,1981,Female,University completed,50760
+Venezuela,1981,Male,Less than primary completed,1273500
+Venezuela,1981,Male,Primary completed,1097620
+Venezuela,1981,Male,Secondary completed,303400
+Venezuela,1981,Male,University completed,90690
+Venezuela,1990,Female,Less than primary completed,1371153
+Venezuela,1990,Female,Primary completed,1511817
+Venezuela,1990,Female,Secondary completed,670614
+Venezuela,1990,Female,University completed,89253
+Venezuela,1990,Male,Less than primary completed,1233807
+Venezuela,1990,Male,Primary completed,1513797
+Venezuela,1990,Male,Secondary completed,657177
+Venezuela,1990,Male,University completed,94671
+Venezuela,2001,Female,Less than primary completed,1421850
+Venezuela,2001,Female,Primary completed,2249150
+Venezuela,2001,Female,Secondary completed,1940020
+Venezuela,2001,Female,University completed,13340
+Venezuela,2001,Male,Less than primary completed,1340040
+Venezuela,2001,Male,Primary completed,2232820
+Venezuela,2001,Male,Secondary completed,1652460
+Venezuela,2001,Male,University completed,10260
+Kenya,1969,Female,Less than primary completed,1649242.37
+Kenya,1969,Female,Primary completed,93439.2
+Kenya,1969,Female,Secondary completed,15257.51
+Kenya,1969,Female,University completed,7127.54
+Kenya,1969,Male,Less than primary completed,1465359.14
+Kenya,1969,Male,Primary completed,364862.38
+Kenya,1969,Male,Secondary completed,49805.52
+Kenya,1969,Male,University completed,21497.31
+Kenya,1979,Female,Less than primary completed,2119814.98
+Kenya,1979,Female,Primary completed,259496.67
+Kenya,1979,Female,Secondary completed,41748.48
+Kenya,1979,Female,University completed,6988.67
+Kenya,1979,Male,Less than primary completed,1572987.64
+Kenya,1979,Male,Primary completed,605071.67
+Kenya,1979,Male,Secondary completed,167184.65
+Kenya,1979,Male,University completed,17617.66
+Kenya,1989,Female,Less than primary completed,2487140
+Kenya,1989,Female,Primary completed,711440
+Kenya,1989,Female,Secondary completed,239300
+Kenya,1989,Female,University completed,13260
+Kenya,1989,Male,Less than primary completed,1640440
+Kenya,1989,Male,Primary completed,1104520
+Kenya,1989,Male,Secondary completed,548720
+Kenya,1989,Male,University completed,38260
+Kenya,1999,Female,Less than primary completed,2762240
+Kenya,1999,Female,Primary completed,1552260
+Kenya,1999,Female,Secondary completed,665440
+Kenya,1999,Female,University completed,37560
+Kenya,1999,Male,Less than primary completed,1753160
+Kenya,1999,Male,Primary completed,1780900
+Kenya,1999,Male,Secondary completed,1105420
+Kenya,1999,Male,University completed,95880
+Kenya,2009,Female,Less than primary completed,2944190
+Kenya,2009,Female,Primary completed,2651540
+Kenya,2009,Female,Secondary completed,1355650
+Kenya,2009,Female,University completed,101590
+Kenya,2009,Male,Less than primary completed,1995400
+Kenya,2009,Male,Primary completed,2644020
+Kenya,2009,Male,Secondary completed,1872940
+Kenya,2009,Male,University completed,194350
+Liberia,1974,Female,Less than primary completed,281890
+Liberia,1974,Female,Primary completed,8330
+Liberia,1974,Female,Secondary completed,4390
+Liberia,1974,Female,University completed,1550
+Liberia,1974,Male,Less than primary completed,263220
+Liberia,1974,Male,Primary completed,31100
+Liberia,1974,Male,Secondary completed,12870
+Liberia,1974,Male,University completed,4510
+Liberia,2008,Female,Less than primary completed,493650
+Liberia,2008,Female,Primary completed,89220
+Liberia,2008,Female,Secondary completed,57440
+Liberia,2008,Female,University completed,6770
+Liberia,2008,Male,Less than primary completed,319770
+Liberia,2008,Male,Primary completed,165610
+Liberia,2008,Male,Secondary completed,145240
+Liberia,2008,Male,University completed,20520
+Malawi,1987,Female,Less than primary completed,1409840
+Malawi,1987,Female,Primary completed,73430
+Malawi,1987,Female,Secondary completed,12840
+Malawi,1987,Female,University completed,270
+Malawi,1987,Male,Less than primary completed,1070930
+Malawi,1987,Male,Primary completed,237680
+Malawi,1987,Male,Secondary completed,48650
+Malawi,1987,Male,University completed,460
+Malawi,1998,Female,Less than primary completed,1568080
+Malawi,1998,Female,Primary completed,166300
+Malawi,1998,Female,Secondary completed,41730
+Malawi,1998,Female,University completed,4420
+Malawi,1998,Male,Less than primary completed,1207970
+Malawi,1998,Male,Primary completed,385530
+Malawi,1998,Male,Secondary completed,138450
+Malawi,1998,Male,University completed,12330
+Malawi,2008,Female,Less than primary completed,1825890
+Malawi,2008,Female,Primary completed,344300
+Malawi,2008,Female,Secondary completed,118110
+Malawi,2008,Female,University completed,6690
+Malawi,2008,Male,Less than primary completed,1337180
+Malawi,2008,Male,Primary completed,575260
+Malawi,2008,Male,Secondary completed,280630
+Malawi,2008,Male,University completed,20110
+Mali,1987,Female,Less than primary completed,1397990
+Mali,1987,Female,Primary completed,58280
+Mali,1987,Female,Secondary completed,11380
+Mali,1987,Female,University completed,2280
+Mali,1987,Male,Less than primary completed,1148090
+Mali,1987,Male,Primary completed,111440
+Mali,1987,Male,Secondary completed,35000
+Mali,1987,Male,University completed,12810
+Mali,1998,Female,Less than primary completed,1664210
+Mali,1998,Female,Primary completed,77250
+Mali,1998,Female,Secondary completed,9030
+Mali,1998,Female,University completed,2760
+Mali,1998,Male,Less than primary completed,1365440
+Mali,1998,Male,Primary completed,146040
+Mali,1998,Male,Secondary completed,33640
+Mali,1998,Male,University completed,12680
+Mali,2009,Female,Less than primary completed,2252660
+Mali,2009,Female,Primary completed,152670
+Mali,2009,Female,Secondary completed,31400
+Mali,2009,Female,University completed,17150
+Mali,2009,Male,Less than primary completed,1948140
+Mali,2009,Male,Primary completed,252970
+Mali,2009,Male,Secondary completed,72440
+Mali,2009,Male,University completed,67580
+Malaysia,1970,Female,Less than primary completed,1342050
+Malaysia,1970,Female,Primary completed,221300
+Malaysia,1970,Female,Secondary completed,2550
+Malaysia,1970,Female,University completed,4450
+Malaysia,1970,Male,Less than primary completed,1035800
+Malaysia,1970,Male,Primary completed,526750
+Malaysia,1970,Male,Secondary completed,8650
+Malaysia,1970,Male,University completed,15000
+Malaysia,1980,Female,Less than primary completed,1441320
+Malaysia,1980,Female,Primary completed,736860
+Malaysia,1980,Female,Secondary completed,17760
+Malaysia,1980,Female,University completed,18120
+Malaysia,1980,Male,Less than primary completed,954360
+Malaysia,1980,Male,Primary completed,1111680
+Malaysia,1980,Male,Secondary completed,36000
+Malaysia,1980,Male,University completed,55620
+Malaysia,1991,Female,Less than primary completed,1753100
+Malaysia,1991,Female,Primary completed,1888950
+Malaysia,1991,Female,Secondary completed,88450
+Malaysia,1991,Female,University completed,129650
+Malaysia,1991,Male,Less than primary completed,1140300
+Malaysia,1991,Male,Primary completed,2352850
+Malaysia,1991,Male,Secondary completed,115650
+Malaysia,1991,Male,University completed,225850
+Malaysia,2000,Female,Less than primary completed,2439450
+Malaysia,2000,Female,Primary completed,2091150
+Malaysia,2000,Female,Secondary completed,140900
+Malaysia,2000,Female,University completed,350350
+Malaysia,2000,Male,Less than primary completed,1965100
+Malaysia,2000,Male,Primary completed,2445000
+Malaysia,2000,Male,Secondary completed,157600
+Malaysia,2000,Male,University completed,488150
+Mongolia,1989,Female,Less than primary completed,164976.23
+Mongolia,1989,Female,Primary completed,136696.45
+Mongolia,1989,Female,Secondary completed,53066.58
+Mongolia,1989,Female,University completed,37544.64
+Mongolia,1989,Male,Less than primary completed,113675.3
+Mongolia,1989,Male,Primary completed,157217.23
+Mongolia,1989,Male,Secondary completed,56489.48
+Mongolia,1989,Male,University completed,51028.53
+Mongolia,2000,Female,Less than primary completed,121310
+Mongolia,2000,Female,Primary completed,146180
+Mongolia,2000,Female,Secondary completed,210040
+Mongolia,2000,Female,University completed,63840
+Mongolia,2000,Male,Less than primary completed,86610
+Mongolia,2000,Male,Primary completed,196010
+Mongolia,2000,Male,Secondary completed,165860
+Mongolia,2000,Male,University completed,65820
+Pakistan,1973,Female,Less than primary completed,10512721
+Pakistan,1973,Female,Primary completed,508786
+Pakistan,1973,Female,Secondary completed,137434
+Pakistan,1973,Female,University completed,40442
+Pakistan,1973,Male,Less than primary completed,9935792
+Pakistan,1973,Male,Primary completed,2670378
+Pakistan,1973,Male,Secondary completed,387186
+Pakistan,1973,Male,University completed,262751
+Pakistan,1981,Female,Less than primary completed,13254795.2
+Pakistan,1981,Female,Primary completed,1180356
+Pakistan,1981,Female,Secondary completed,88171.4
+Pakistan,1981,Female,University completed,106510.2
+Pakistan,1981,Male,Less than primary completed,11624127.8
+Pakistan,1981,Male,Primary completed,4098706.6
+Pakistan,1981,Male,Secondary completed,394911.2
+Pakistan,1981,Male,University completed,464090.2
+Pakistan,1998,Female,Less than primary completed,19052250
+Pakistan,1998,Female,Primary completed,3164200
+Pakistan,1998,Female,Secondary completed,418290
+Pakistan,1998,Female,University completed,501550
+Pakistan,1998,Male,Less than primary completed,15119560
+Pakistan,1998,Male,Primary completed,8043740
+Pakistan,1998,Male,Secondary completed,1051060
+Pakistan,1998,Male,University completed,1335970
+Mexico,2010,Female,Less than primary completed,8281377
+Mexico,2010,Female,Primary completed,13873645
+Mexico,2010,Female,Secondary completed,5293702
+Mexico,2010,Female,University completed,3124009
+Mexico,2010,Male,Less than primary completed,6623860
+Mexico,2010,Male,Primary completed,12506971
+Mexico,2010,Male,Secondary completed,4691117
+Mexico,2010,Male,University completed,3676780
+Mexico,2015,Female,Less than primary completed,7543928
+Mexico,2015,Female,Primary completed,15866462
+Mexico,2015,Female,Secondary completed,6671542
+Mexico,2015,Female,University completed,4309660
+Mexico,2015,Male,Less than primary completed,5964492
+Mexico,2015,Male,Primary completed,14112034
+Mexico,2015,Male,Secondary completed,5936674
+Mexico,2015,Male,University completed,4664658
+Mexico,1995,Female,Less than primary completed,8697612
+Mexico,1995,Female,Primary completed,8949346
+Mexico,1995,Female,Secondary completed,1250461
+Mexico,1995,Female,University completed,1274503
+Mexico,1995,Male,Less than primary completed,6891349
+Mexico,1995,Male,Primary completed,7900923
+Mexico,1995,Male,Secondary completed,1645315
+Mexico,1995,Male,University completed,2175672
+Mexico,2000,Female,Less than primary completed,8113097
+Mexico,2000,Female,Primary completed,9553239
+Mexico,2000,Female,Secondary completed,3018663
+Mexico,2000,Female,University completed,1655203
+Mexico,2000,Male,Less than primary completed,6492254
+Mexico,2000,Male,Primary completed,8899311
+Mexico,2000,Male,Secondary completed,2686709
+Mexico,2000,Male,University completed,2317320
+Mexico,2005,Female,Less than primary completed,8065650
+Mexico,2005,Female,Primary completed,11758640
+Mexico,2005,Female,Secondary completed,3870950
+Mexico,2005,Female,University completed,2669250
+Mexico,2005,Male,Less than primary completed,6341060
+Mexico,2005,Male,Primary completed,10657400
+Mexico,2005,Male,Secondary completed,3436000
+Mexico,2005,Male,University completed,3234880
+Mexico,1960,Female,Less than primary completed,5158129
+Mexico,1960,Female,Primary completed,899341
+Mexico,1960,Female,Secondary completed,64923
+Mexico,1960,Female,University completed,10854
+Mexico,1960,Male,Less than primary completed,4898906
+Mexico,1960,Male,Primary completed,919039
+Mexico,1960,Male,Secondary completed,84286
+Mexico,1960,Male,University completed,60032
+Mexico,1970,Female,Less than primary completed,6776400
+Mexico,1970,Female,Primary completed,1647000
+Mexico,1970,Female,Secondary completed,95500
+Mexico,1970,Female,University completed,54100
+Mexico,1970,Male,Less than primary completed,6287400
+Mexico,1970,Male,Primary completed,1659200
+Mexico,1970,Male,Secondary completed,143900
+Mexico,1970,Male,University completed,217800
+Mexico,1990,Female,Less than primary completed,8692300
+Mexico,1990,Female,Primary completed,6019220
+Mexico,1990,Female,Secondary completed,1431100
+Mexico,1990,Female,University completed,645490
+Mexico,1990,Male,Less than primary completed,7089270
+Mexico,1990,Male,Primary completed,5687260
+Mexico,1990,Male,Secondary completed,1418300
+Mexico,1990,Male,University completed,1266540
+Palestine,1997,Female,Less than primary completed,176317.95
+Palestine,1997,Female,Primary completed,152908.75
+Palestine,1997,Female,Secondary completed,80566
+Palestine,1997,Female,University completed,16893.76
+Palestine,1997,Male,Less than primary completed,101467.43
+Palestine,1997,Male,Primary completed,173194.54
+Palestine,1997,Male,Secondary completed,103983.79
+Palestine,1997,Male,University completed,49614.28
+Palestine,2007,Female,Less than primary completed,114808.32
+Palestine,2007,Female,Primary completed,184817.51
+Palestine,2007,Female,Secondary completed,80828.68
+Palestine,2007,Female,University completed,40668.78
+Palestine,2007,Male,Less than primary completed,62534.8
+Palestine,2007,Male,Primary completed,205279.27
+Palestine,2007,Male,Secondary completed,94372.01
+Palestine,2007,Male,University completed,60054.56
+Philippines,1990,Female,Less than primary completed,3638902
+Philippines,1990,Female,Primary completed,4181780
+Philippines,1990,Female,Secondary completed,2697197
+Philippines,1990,Female,University completed,1447617
+Philippines,1990,Male,Less than primary completed,3460439
+Philippines,1990,Male,Primary completed,3926547
+Philippines,1990,Male,Secondary completed,3308172
+Philippines,1990,Male,University completed,1135894
+Philippines,1995,Female,Less than primary completed,3384760
+Philippines,1995,Female,Primary completed,4895360
+Philippines,1995,Female,Secondary completed,3835710
+Philippines,1995,Female,University completed,2075420
+Philippines,1995,Male,Less than primary completed,3372000
+Philippines,1995,Male,Primary completed,4656540
+Philippines,1995,Male,Secondary completed,4412910
+Philippines,1995,Male,University completed,1713130
+Philippines,2000,Female,Less than primary completed,3296111
+Philippines,2000,Female,Primary completed,5479227
+Philippines,2000,Female,Secondary completed,5402635
+Philippines,2000,Female,University completed,1509226
+Philippines,2000,Male,Less than primary completed,3448441
+Philippines,2000,Male,Primary completed,5275888
+Philippines,2000,Male,Secondary completed,5799464
+Philippines,2000,Male,University completed,1153298
+Peru,1993,Female,Less than primary completed,2409030
+Peru,1993,Female,Primary completed,765840
+Peru,1993,Female,Secondary completed,1265590
+Peru,1993,Female,University completed,293860
+Peru,1993,Male,Less than primary completed,1773350
+Peru,1993,Male,Primary completed,891510
+Peru,1993,Male,Secondary completed,1442450
+Peru,1993,Male,University completed,429910
+Peru,2007,Female,Less than primary completed,2544700
+Peru,2007,Female,Primary completed,1108700
+Peru,2007,Female,Secondary completed,2560270
+Peru,2007,Female,University completed,836820
+Peru,2007,Male,Less than primary completed,1723380
+Peru,2007,Male,Primary completed,1181990
+Peru,2007,Male,Secondary completed,2940320
+Peru,2007,Male,University completed,920410
+Puerto Rico,1970,Female,Less than primary completed,286600
+Puerto Rico,1970,Female,Primary completed,177600
+Puerto Rico,1970,Female,Secondary completed,120900
+Puerto Rico,1970,Female,University completed,31700
+Puerto Rico,1970,Male,Less than primary completed,235100
+Puerto Rico,1970,Male,Primary completed,173000
+Puerto Rico,1970,Male,Secondary completed,124300
+Puerto Rico,1970,Male,University completed,39200
+Puerto Rico,1980,Female,Less than primary completed,266060
+Puerto Rico,1980,Female,Primary completed,239160
+Puerto Rico,1980,Female,Secondary completed,252260
+Puerto Rico,1980,Female,University completed,73500
+Puerto Rico,1980,Male,Less than primary completed,216540
+Puerto Rico,1980,Male,Primary completed,229500
+Puerto Rico,1980,Male,Secondary completed,223120
+Puerto Rico,1980,Male,University completed,74040
+Puerto Rico,1990,Female,Less than primary completed,191691
+Puerto Rico,1990,Female,Primary completed,291039
+Puerto Rico,1990,Female,Secondary completed,400002
+Puerto Rico,1990,Female,University completed,157284
+Puerto Rico,1990,Male,Less than primary completed,159072
+Puerto Rico,1990,Male,Primary completed,272103
+Puerto Rico,1990,Male,Secondary completed,358575
+Puerto Rico,1990,Male,University completed,122274
+Puerto Rico,2000,Female,Less than primary completed,139444
+Puerto Rico,2000,Female,Primary completed,290714
+Puerto Rico,2000,Female,Secondary completed,554334
+Puerto Rico,2000,Female,University completed,246449
+Puerto Rico,2000,Male,Less than primary completed,111819
+Puerto Rico,2000,Male,Primary completed,276038
+Puerto Rico,2000,Male,Secondary completed,502536
+Puerto Rico,2000,Male,University completed,170123
+Puerto Rico,2005,Female,Less than primary completed,137618
+Puerto Rico,2005,Female,Primary completed,266935
+Puerto Rico,2005,Female,Secondary completed,607672
+Puerto Rico,2005,Female,University completed,299136
+Puerto Rico,2005,Male,Less than primary completed,115571
+Puerto Rico,2005,Male,Primary completed,257075
+Puerto Rico,2005,Male,Secondary completed,554513
+Puerto Rico,2005,Male,University completed,198098
+Puerto Rico,2010,Female,Less than primary completed,145391
+Puerto Rico,2010,Female,Primary completed,209512
+Puerto Rico,2010,Female,Secondary completed,621966
+Puerto Rico,2010,Female,University completed,335599
+Puerto Rico,2010,Male,Less than primary completed,122428
+Puerto Rico,2010,Male,Primary completed,224537
+Puerto Rico,2010,Male,Secondary completed,577951
+Puerto Rico,2010,Male,University completed,207076
+Saint Lucia,1980,Female,Less than primary completed,19890
+Saint Lucia,1980,Female,Secondary completed,1380
+Saint Lucia,1980,Female,University completed,150
+Saint Lucia,1980,Male,Less than primary completed,16540
+Saint Lucia,1980,Male,Secondary completed,1120
+Saint Lucia,1980,Male,University completed,350
+Saint Lucia,1991,Female,Less than primary completed,21150
+Saint Lucia,1991,Female,Primary completed,1470
+Saint Lucia,1991,Female,Secondary completed,6430
+Saint Lucia,1991,Female,University completed,620
+Saint Lucia,1991,Male,Less than primary completed,19330
+Saint Lucia,1991,Male,Primary completed,1260
+Saint Lucia,1991,Male,Secondary completed,4340
+Saint Lucia,1991,Male,University completed,960
+Portugal,1981,Female,Less than primary completed,2644780
+Portugal,1981,Female,Primary completed,236680
+Portugal,1981,Female,Secondary completed,124120
+Portugal,1981,Female,University completed,51600
+Portugal,1981,Male,Less than primary completed,2119840
+Portugal,1981,Male,Primary completed,321860
+Portugal,1981,Male,Secondary completed,106660
+Portugal,1981,Male,University completed,97300
+Portugal,1991,Female,Less than primary completed,2503060
+Portugal,1991,Female,Primary completed,443240
+Portugal,1991,Female,Secondary completed,271820
+Portugal,1991,Female,University completed,121540
+Portugal,1991,Male,Less than primary completed,2007540
+Portugal,1991,Male,Primary completed,510700
+Portugal,1991,Male,Secondary completed,258460
+Portugal,1991,Male,University completed,142800
+Portugal,2001,Female,Less than primary completed,2237300
+Portugal,2001,Female,Primary completed,803680
+Portugal,2001,Female,Secondary completed,414480
+Portugal,2001,Female,University completed,357420
+Portugal,2001,Male,Less than primary completed,1807580
+Portugal,2001,Male,Primary completed,909120
+Portugal,2001,Male,Secondary completed,415960
+Portugal,2001,Male,University completed,265720
+Portugal,2011,Female,Less than primary completed,1884140
+Portugal,2011,Female,Primary completed,1019240
+Portugal,2011,Female,Secondary completed,577940
+Portugal,2011,Female,University completed,703380
+Portugal,2011,Male,Less than primary completed,1465500
+Portugal,2011,Male,Primary completed,1176760
+Portugal,2011,Male,Secondary completed,554140
+Portugal,2011,Male,University completed,463160
+Romania,1977,Female,Less than primary completed,3637180
+Romania,1977,Female,Primary completed,1321510
+Romania,1977,Female,Secondary completed,879780
+Romania,1977,Female,University completed,177320
+Romania,1977,Male,Less than primary completed,2626550
+Romania,1977,Male,Primary completed,1184410
+Romania,1977,Male,Secondary completed,1520010
+Romania,1977,Male,University completed,212250
+Romania,1992,Female,Less than primary completed,2552890
+Romania,1992,Female,Primary completed,2189210
+Romania,1992,Female,Secondary completed,1935250
+Romania,1992,Female,University completed,384090
+Romania,1992,Male,Less than primary completed,1489730
+Romania,1992,Male,Primary completed,1718290
+Romania,1992,Male,Secondary completed,2693630
+Romania,1992,Male,University completed,554430
+Romania,2002,Female,Less than primary completed,1940280
+Romania,2002,Female,Primary completed,2212170
+Romania,2002,Female,Secondary completed,2847620
+Romania,2002,Female,University completed,563170
+Romania,2002,Male,Less than primary completed,1047730
+Romania,2002,Male,Primary completed,1603680
+Romania,2002,Male,Secondary completed,3506470
+Romania,2002,Male,University completed,661950
+Romania,2011,Female,Less than primary completed,1251940
+Romania,2011,Female,Primary completed,2128700
+Romania,2011,Female,Secondary completed,2955150
+Romania,2011,Female,University completed,1223770
+Romania,2011,Male,Less than primary completed,647230
+Romania,2011,Male,Primary completed,1537330
+Romania,2011,Male,Secondary completed,3565630
+Romania,2011,Male,University completed,1077780
+Slovenia,2002,Female,Less than primary completed,56190
+Slovenia,2002,Female,Primary completed,183620
+Slovenia,2002,Female,Secondary completed,341230
+Slovenia,2002,Female,University completed,53210
+Slovenia,2002,Male,Less than primary completed,37980
+Slovenia,2002,Male,Primary completed,92520
+Slovenia,2002,Male,Secondary completed,408910
+Slovenia,2002,Male,University completed,56460
+Rwanda,1991,Female,,1310010
+Rwanda,1991,Male,,1230400
+Rwanda,2002,Female,Less than primary completed,1172340
+Rwanda,2002,Female,Primary completed,255520
+Rwanda,2002,Female,Secondary completed,26260
+Rwanda,2002,Female,University completed,1950
+Rwanda,2002,Male,Less than primary completed,802720
+Rwanda,2002,Male,Primary completed,303670
+Rwanda,2002,Male,Secondary completed,42270
+Rwanda,2002,Male,University completed,8270
+Senegal,1988,Female,Less than primary completed,1115780
+Senegal,1988,Female,Primary completed,97680
+Senegal,1988,Female,Secondary completed,12810
+Senegal,1988,Female,University completed,3480
+Senegal,1988,Male,Less than primary completed,893870
+Senegal,1988,Male,Primary completed,178580
+Senegal,1988,Male,Secondary completed,41620
+Senegal,1988,Male,University completed,16410
+Senegal,2002,Female,Less than primary completed,1556300
+Senegal,2002,Female,Primary completed,243440
+Senegal,2002,Female,Secondary completed,47210
+Senegal,2002,Female,University completed,9970
+Senegal,2002,Male,Less than primary completed,1244860
+Senegal,2002,Male,Primary completed,344660
+Senegal,2002,Male,Secondary completed,110880
+Senegal,2002,Male,University completed,35330
+Sierra Leone,2004,Female,Less than primary completed,863080
+Sierra Leone,2004,Female,Primary completed,126540
+Sierra Leone,2004,Female,Secondary completed,9800
+Sierra Leone,2004,Female,University completed,6100
+Sierra Leone,2004,Male,Less than primary completed,597690
+Sierra Leone,2004,Male,Primary completed,230200
+Sierra Leone,2004,Male,Secondary completed,21900
+Sierra Leone,2004,Male,University completed,21360
+South Africa,1996,Female,Less than primary completed,3355403.61
+South Africa,1996,Female,Primary completed,4143799.01
+South Africa,1996,Female,Secondary completed,1620364.33
+South Africa,1996,Female,University completed,179914.22
+South Africa,1996,Male,Less than primary completed,2561005.2
+South Africa,1996,Male,Primary completed,3577230.01
+South Africa,1996,Male,Secondary completed,1504917.74
+South Africa,1996,Male,University completed,240909.15
+South Africa,2001,Female,Less than primary completed,3994658.42
+South Africa,2001,Female,Primary completed,4566556.96
+South Africa,2001,Female,Secondary completed,2583174.78
+South Africa,2001,Female,University completed,319269.95
+South Africa,2001,Male,Less than primary completed,2971849.84
+South Africa,2001,Male,Primary completed,3934918.11
+South Africa,2001,Male,Secondary completed,2408454.13
+South Africa,2001,Male,University completed,387836.77
+South Africa,2007,Female,Less than primary completed,3382513.25
+South Africa,2007,Female,Primary completed,5994158.26
+South Africa,2007,Female,Secondary completed,2438222.23
+South Africa,2007,Female,University completed,551503.98
+South Africa,2007,Male,Less than primary completed,2429529.36
+South Africa,2007,Male,Primary completed,4885948.12
+South Africa,2007,Male,Secondary completed,2229844.14
+South Africa,2007,Male,University completed,587988.49
+South Africa,2011,Female,Less than primary completed,3012600.99
+South Africa,2011,Female,Primary completed,5552917.86
+South Africa,2011,Female,Secondary completed,4135224.36
+South Africa,2011,Female,University completed,1007161.96
+South Africa,2011,Male,Less than primary completed,2247626.13
+South Africa,2011,Male,Primary completed,4908548.62
+South Africa,2011,Male,Secondary completed,3925883.59
+South Africa,2011,Male,University completed,923404.21
+South Sudan,2008,Female,Less than primary completed,1289353.6
+South Sudan,2008,Female,Primary completed,64386.46
+South Sudan,2008,Female,Secondary completed,13571.54
+South Sudan,2008,Female,University completed,5686.08
+South Sudan,2008,Male,Less than primary completed,1066742.65
+South Sudan,2008,Male,Primary completed,164256.22
+South Sudan,2008,Male,Secondary completed,40334.96
+South Sudan,2008,Male,University completed,20907.14
+Sudan,2008,Female,Less than primary completed,4391513.18
+Sudan,2008,Female,Primary completed,848565.51
+Sudan,2008,Female,Secondary completed,70704.06
+Sudan,2008,Female,University completed,303100.78
+Sudan,2008,Male,Less than primary completed,3565009.79
+Sudan,2008,Male,Primary completed,1163533.63
+Sudan,2008,Male,Secondary completed,107288.72
+Sudan,2008,Male,University completed,393114.59
+Spain,1981,Female,Less than primary completed,5737703.94
+Spain,1981,Female,Primary completed,4656330.65
+Spain,1981,Female,Secondary completed,704776.8
+Spain,1981,Female,University completed,166972.57
+Spain,1981,Male,Less than primary completed,4400352.44
+Spain,1981,Male,Primary completed,4450203.92
+Spain,1981,Male,Secondary completed,973479.3
+Spain,1981,Male,University completed,440399.77
+Spain,1991,Female,Less than primary completed,4295447.62
+Spain,1991,Female,Primary completed,6314481.97
+Spain,1991,Female,Secondary completed,1290919.66
+Spain,1991,Female,University completed,901531.77
+Spain,1991,Male,Less than primary completed,3110744.79
+Spain,1991,Male,Primary completed,5842095.94
+Spain,1991,Male,Secondary completed,1825764.16
+Spain,1991,Male,University completed,965279.4
+Spain,2001,Female,Less than primary completed,3010380
+Spain,2001,Female,Primary completed,7451260
+Spain,2001,Female,Secondary completed,3504920
+Spain,2001,Female,University completed,1065960
+Spain,2001,Male,Less than primary completed,2113240
+Spain,2001,Male,Primary completed,7052840
+Spain,2001,Male,Secondary completed,3652000
+Spain,2001,Male,University completed,1171180
+Spain,2011,Female,Less than primary completed,2497189.89
+Spain,2011,Female,Primary completed,7494244.03
+Spain,2011,Female,Secondary completed,5517606.68
+Spain,2011,Female,University completed,2320857.2
+Spain,2011,Male,Less than primary completed,1677591.21
+Spain,2011,Male,Primary completed,7489727.69
+Spain,2011,Male,Secondary completed,5597550.96
+Spain,2011,Male,University completed,2197479.32
+Switzerland,1970,Female,Less than primary completed,7340
+Switzerland,1970,Female,Secondary completed,1847160
+Switzerland,1970,Female,University completed,19560
+Switzerland,1970,Male,Less than primary completed,7720
+Switzerland,1970,Male,Secondary completed,1651480
+Switzerland,1970,Male,University completed,95160
+Switzerland,1980,Female,Less than primary completed,12600
+Switzerland,1980,Female,Secondary completed,1983160
+Switzerland,1980,Female,University completed,47000
+Switzerland,1980,Male,Less than primary completed,12760
+Switzerland,1980,Male,Secondary completed,1728100
+Switzerland,1980,Male,University completed,140240
+Switzerland,1990,Female,Less than primary completed,34320
+Switzerland,1990,Female,Secondary completed,2283460
+Switzerland,1990,Female,University completed,74760
+Switzerland,1990,Male,Less than primary completed,28880
+Switzerland,1990,Male,Secondary completed,2044300
+Switzerland,1990,Male,University completed,186140
+Switzerland,2000,Female,Less than primary completed,91500
+Switzerland,2000,Female,Secondary completed,2199160
+Switzerland,2000,Female,University completed,162960
+Switzerland,2000,Male,Less than primary completed,64620
+Switzerland,2000,Male,Secondary completed,1944400
+Switzerland,2000,Male,University completed,289960
+Ukraine,2001,Female,Less than primary completed,2828880
+Ukraine,2001,Female,Primary completed,2650050
+Ukraine,2001,Female,Secondary completed,10101300
+Ukraine,2001,Female,University completed,2966150
+Ukraine,2001,Male,Less than primary completed,1162870
+Ukraine,2001,Male,Primary completed,2027760
+Ukraine,2001,Male,Secondary completed,8860400
+Ukraine,2001,Male,University completed,2586150
+United Kingdom,1991,Female,,19001600
+United Kingdom,1991,Male,,17114300
+United Kingdom,2001,Female,,21988134.3
+United Kingdom,2001,Male,,19931040.03
+Tanzania,1988,Female,Less than primary completed,3462918.78
+Tanzania,1988,Female,Primary completed,727377.1
+Tanzania,1988,Female,Secondary completed,62699.02
+Tanzania,1988,Female,University completed,3089.86
+Tanzania,1988,Male,Less than primary completed,2409100.62
+Tanzania,1988,Male,Primary completed,1287287.71
+Tanzania,1988,Male,Secondary completed,194399.99
+Tanzania,1988,Male,University completed,18619.93
+Tanzania,2002,Female,Less than primary completed,3542871.47
+Tanzania,2002,Female,Primary completed,2530241.61
+Tanzania,2002,Female,Secondary completed,243019.04
+Tanzania,2002,Female,University completed,41244.27
+Tanzania,2002,Male,Less than primary completed,2364495.21
+Tanzania,2002,Male,Primary completed,2952894.39
+Tanzania,2002,Male,Secondary completed,429983.37
+Tanzania,2002,Male,University completed,68748.97
+Tanzania,2012,Female,Less than primary completed,3713555.87
+Tanzania,2012,Female,Primary completed,4118101.83
+Tanzania,2012,Female,Secondary completed,489575.29
+Tanzania,2012,Female,University completed,178163.66
+Tanzania,2012,Male,Less than primary completed,2405698.04
+Tanzania,2012,Male,Primary completed,4242718.07
+Tanzania,2012,Male,Secondary completed,719056.8
+Tanzania,2012,Male,University completed,272844.33
+Uganda,1991,Female,Less than primary completed,2265396
+Uganda,1991,Female,Primary completed,524416
+Uganda,1991,Female,Secondary completed,12331
+Uganda,1991,Female,University completed,4103
+Uganda,1991,Male,Less than primary completed,1570323
+Uganda,1991,Male,Primary completed,995904
+Uganda,1991,Male,Secondary completed,59143
+Uganda,1991,Male,University completed,19844
+Uganda,2002,Female,Less than primary completed,2807300
+Uganda,2002,Female,Primary completed,969230
+Uganda,2002,Female,Secondary completed,139660
+Uganda,2002,Female,University completed,21940
+Uganda,2002,Male,Less than primary completed,2002340
+Uganda,2002,Male,Primary completed,1638480
+Uganda,2002,Male,Secondary completed,335190
+Uganda,2002,Male,University completed,63540
+Zambia,1990,Female,Less than primary completed,954950
+Zambia,1990,Female,Primary completed,342400
+Zambia,1990,Female,Secondary completed,56000
+Zambia,1990,Female,University completed,21610
+Zambia,1990,Male,Less than primary completed,615740
+Zambia,1990,Male,Primary completed,427390
+Zambia,1990,Male,Secondary completed,120210
+Zambia,1990,Male,University completed,29810
+Zambia,2000,Female,Less than primary completed,935590
+Zambia,2000,Female,Primary completed,543240
+Zambia,2000,Female,Secondary completed,104440
+Zambia,2000,Female,University completed,26860
+Zambia,2000,Male,Less than primary completed,717800
+Zambia,2000,Male,Primary completed,676430
+Zambia,2000,Male,Secondary completed,253440
+Zambia,2000,Male,University completed,51010
+Zambia,2010,Female,Less than primary completed,987430
+Zambia,2010,Female,Primary completed,871380
+Zambia,2010,Female,Secondary completed,285680
+Zambia,2010,Female,University completed,13350
+Zambia,2010,Male,Less than primary completed,536630
+Zambia,2010,Male,Primary completed,942330
+Zambia,2010,Male,Secondary completed,529270
+Zambia,2010,Male,University completed,36110
+Thailand,1970,Female,Less than primary completed,6022587.04
+Thailand,1970,Female,Primary completed,151411.86
+Thailand,1970,Female,Secondary completed,61294.88
+Thailand,1970,Female,University completed,16778.69
+Thailand,1970,Male,Less than primary completed,5338767.38
+Thailand,1970,Male,Primary completed,384993.15
+Thailand,1970,Male,Secondary completed,118633.38
+Thailand,1970,Male,University completed,40554.21
+Thailand,1980,Female,Less than primary completed,8292650.38
+Thailand,1980,Female,Primary completed,415539.58
+Thailand,1980,Female,Secondary completed,249795.82
+Thailand,1980,Female,University completed,104050.52
+Thailand,1980,Male,Less than primary completed,7143059.7
+Thailand,1980,Male,Primary completed,837740.33
+Thailand,1980,Male,Secondary completed,398581.22
+Thailand,1980,Male,University completed,157118.35
+Thailand,1990,Female,Less than primary completed,11460010.58
+Thailand,1990,Female,Primary completed,1290848.15
+Thailand,1990,Female,Secondary completed,775422.73
+Thailand,1990,Female,University completed,566162.88
+Thailand,1990,Male,Less than primary completed,9486516.95
+Thailand,1990,Male,Primary completed,1948634.53
+Thailand,1990,Male,Secondary completed,1057826.99
+Thailand,1990,Male,University completed,630524.02
+Thailand,2000,Female,Less than primary completed,11248458.83
+Thailand,2000,Female,Primary completed,4197476.89
+Thailand,2000,Female,Secondary completed,2036436.49
+Thailand,2000,Female,University completed,904637.87
+Thailand,2000,Male,Less than primary completed,8927120.33
+Thailand,2000,Male,Primary completed,4742454.91
+Thailand,2000,Male,Secondary completed,2399385.63
+Thailand,2000,Male,University completed,910766.89
+Turkey,1985,Female,Less than primary completed,5764700
+Turkey,1985,Female,Primary completed,4139500
+Turkey,1985,Female,Secondary completed,523660
+Turkey,1985,Female,University completed,198820
+Turkey,1985,Male,Less than primary completed,2853920
+Turkey,1985,Male,Primary completed,6770900
+Turkey,1985,Male,Secondary completed,1060200
+Turkey,1985,Male,University completed,713340
+Turkey,1990,Female,Less than primary completed,5811840
+Turkey,1990,Female,Primary completed,5736000
+Turkey,1990,Female,Secondary completed,779460
+Turkey,1990,Female,University completed,361600
+Turkey,1990,Male,Less than primary completed,2508120
+Turkey,1990,Male,Primary completed,8440800
+Turkey,1990,Male,Secondary completed,1493280
+Turkey,1990,Male,University completed,1059960
+Turkey,2000,Female,Less than primary completed,5921860
+Turkey,2000,Female,Primary completed,8573300
+Turkey,2000,Female,Secondary completed,1548800
+Turkey,2000,Female,University completed,918740
+Turkey,2000,Male,Less than primary completed,2156460
+Turkey,2000,Male,Primary completed,10779840
+Turkey,2000,Male,Secondary completed,2895380
+Turkey,2000,Male,University completed,1913100
+Vietnam,1989,Female,Less than primary completed,8921518.95
+Vietnam,1989,Female,Primary completed,4142127.53
+Vietnam,1989,Female,Secondary completed,963906.69
+Vietnam,1989,Female,University completed,243642.56
+Vietnam,1989,Male,Less than primary completed,5040025.08
+Vietnam,1989,Male,Primary completed,5043694.29
+Vietnam,1989,Male,Secondary completed,1273117.49
+Vietnam,1989,Male,University completed,425348.26
+Vietnam,1999,Female,Less than primary completed,9111669.16
+Vietnam,1999,Female,Primary completed,7455369.98
+Vietnam,1999,Female,Secondary completed,2044659.97
+Vietnam,1999,Female,University completed,274036.48
+Vietnam,1999,Male,Less than primary completed,5438075.8
+Vietnam,1999,Male,Primary completed,8330055.12
+Vietnam,1999,Male,Secondary completed,2445531.64
+Vietnam,1999,Male,University completed,592666.07
+Vietnam,2009,Female,Less than primary completed,9867116.36
+Vietnam,2009,Female,Primary completed,11156698.75
+Vietnam,2009,Female,Secondary completed,2317937.16
+Vietnam,2009,Female,University completed,1499608
+Vietnam,2009,Male,Less than primary completed,6275092.18
+Vietnam,2009,Male,Primary completed,11998583.89
+Vietnam,2009,Male,Secondary completed,2787616.17
+Vietnam,2009,Male,University completed,1786102.99
+United States,1990,Female,Less than primary completed,2144255
+United States,1990,Female,Primary completed,15768925
+United States,1990,Female,Secondary completed,50805526
+United States,1990,Female,University completed,14718677
+United States,1990,Male,Less than primary completed,2101121
+United States,1990,Male,Primary completed,13376953
+United States,1990,Male,Secondary completed,42089881
+United States,1990,Male,University completed,17505910
+United States,2000,Female,Less than primary completed,2040634
+United States,2000,Female,Primary completed,12939253
+United States,2000,Female,Secondary completed,58430910
+United States,2000,Female,University completed,21727153
+United States,2000,Male,Less than primary completed,1963599
+United States,2000,Male,Primary completed,12003306
+United States,2000,Male,Secondary completed,50372101
+United States,2000,Male,University completed,22705258
+United States,2005,Female,Less than primary completed,1628346
+United States,2005,Female,Primary completed,11334721
+United States,2005,Female,Secondary completed,59807132
+United States,2005,Female,University completed,25629430
+United States,2005,Male,Less than primary completed,1612906
+United States,2005,Male,Primary completed,10839661
+United States,2005,Male,Secondary completed,52330097
+United States,2005,Male,University completed,25748273
+United States,2010,Female,Less than primary completed,2625630
+United States,2010,Female,Primary completed,10219293
+United States,2010,Female,Secondary completed,63579096
+United States,2010,Female,University completed,29620888
+United States,2010,Male,Less than primary completed,2547013
+United States,2010,Male,Primary completed,10412946
+United States,2010,Male,Secondary completed,57289686
+United States,2010,Male,University completed,28051577
+United States,1960,Female,Less than primary completed,5249961
+United States,1960,Female,Primary completed,24308111
+United States,1960,Female,Secondary completed,18850891
+United States,1960,Female,University completed,2977451
+United States,1960,Male,Less than primary completed,6051922
+United States,1960,Male,Primary completed,22842555
+United States,1960,Male,Secondary completed,14240987
+United States,1960,Male,University completed,4616708
+United States,1970,Female,Less than primary completed,4029210
+United States,1970,Female,Primary completed,23298676
+United States,1970,Female,Secondary completed,26014569
+United States,1970,Female,University completed,4686241
+United States,1970,Male,Less than primary completed,4259349
+United States,1970,Male,Primary completed,20561908
+United States,1970,Male,Secondary completed,19808220
+United States,1970,Male,University completed,6951517
+United States,1980,Female,Less than primary completed,3263886
+United States,1980,Female,Primary completed,20872867
+United States,1980,Female,Secondary completed,37361369
+United States,1980,Female,University completed,9051529
+United States,1980,Male,Less than primary completed,3291144
+United States,1980,Male,Primary completed,17114184
+United States,1980,Male,Secondary completed,29375297
+United States,1980,Male,University completed,12501990
+Trinidad and Tobago,1970,Female,Less than primary completed,32870.2
+Trinidad and Tobago,1970,Female,Primary completed,118335.4
+Trinidad and Tobago,1970,Female,Secondary completed,26679.4
+Trinidad and Tobago,1970,Female,University completed,1232.8
+Trinidad and Tobago,1970,Male,Less than primary completed,20287.6
+Trinidad and Tobago,1970,Male,Primary completed,113310.4
+Trinidad and Tobago,1970,Male,Secondary completed,27778.2
+Trinidad and Tobago,1970,Male,University completed,3309.8
+Trinidad and Tobago,1980,Female,Less than primary completed,65320
+Trinidad and Tobago,1980,Female,Primary completed,118090
+Trinidad and Tobago,1980,Female,Secondary completed,37990
+Trinidad and Tobago,1980,Female,University completed,2390
+Trinidad and Tobago,1980,Male,Less than primary completed,50690
+Trinidad and Tobago,1980,Male,Primary completed,122230
+Trinidad and Tobago,1980,Male,Secondary completed,38300
+Trinidad and Tobago,1980,Male,University completed,5760
+Trinidad and Tobago,1990,Female,Less than primary completed,63170
+Trinidad and Tobago,1990,Female,Primary completed,124120
+Trinidad and Tobago,1990,Female,Secondary completed,81010
+Trinidad and Tobago,1990,Female,University completed,3690
+Trinidad and Tobago,1990,Male,Less than primary completed,56610
+Trinidad and Tobago,1990,Male,Primary completed,127200
+Trinidad and Tobago,1990,Male,Secondary completed,72040
+Trinidad and Tobago,1990,Male,University completed,6660
+Trinidad and Tobago,2000,Female,Less than primary completed,59590
+Trinidad and Tobago,2000,Female,Primary completed,106630
+Trinidad and Tobago,2000,Female,Secondary completed,127880
+Trinidad and Tobago,2000,Female,University completed,7420
+Trinidad and Tobago,2000,Male,Less than primary completed,54730
+Trinidad and Tobago,2000,Male,Primary completed,109680
+Trinidad and Tobago,2000,Male,Secondary completed,118410
+Trinidad and Tobago,2000,Male,University completed,9350
+Trinidad and Tobago,2011,Female,Less than primary completed,57353.4
+Trinidad and Tobago,2011,Female,Primary completed,107182.8
+Trinidad and Tobago,2011,Female,Secondary completed,228296.4
+Trinidad and Tobago,2011,Female,University completed,21945
+Trinidad and Tobago,2011,Male,Less than primary completed,54777
+Trinidad and Tobago,2011,Male,Primary completed,117100.8
+Trinidad and Tobago,2011,Male,Secondary completed,216326.4
+Trinidad and Tobago,2011,Male,University completed,19630.8
+Uruguay,1963,Female,Less than primary completed,415460
+Uruguay,1963,Female,Primary completed,266630
+Uruguay,1963,Female,Secondary completed,33870
+Uruguay,1963,Female,University completed,4880
+Uruguay,1963,Male,Less than primary completed,417610
+Uruguay,1963,Male,Primary completed,234210
+Uruguay,1963,Male,Secondary completed,30930
+Uruguay,1963,Male,University completed,15450
+Uruguay,1975,Female,Less than primary completed,376800
+Uruguay,1975,Female,Primary completed,359240
+Uruguay,1975,Female,Secondary completed,79990
+Uruguay,1975,Female,University completed,9380
+Uruguay,1975,Male,Less than primary completed,365330
+Uruguay,1975,Male,Primary completed,309200
+Uruguay,1975,Male,Secondary completed,75020
+Uruguay,1975,Male,University completed,16490
+Uruguay,1985,Female,Less than primary completed,291310
+Uruguay,1985,Female,Primary completed,444880
+Uruguay,1985,Female,Secondary completed,141260
+Uruguay,1985,Female,University completed,20630
+Uruguay,1985,Male,Less than primary completed,276550
+Uruguay,1985,Male,Primary completed,371630
+Uruguay,1985,Male,Secondary completed,131630
+Uruguay,1985,Male,University completed,24930
+Uruguay,1996,Female,Less than primary completed,265500
+Uruguay,1996,Female,Primary completed,568980
+Uruguay,1996,Female,Secondary completed,97560
+Uruguay,1996,Female,University completed,42420
+Uruguay,1996,Male,Less than primary completed,248500
+Uruguay,1996,Male,Primary completed,509540
+Uruguay,1996,Male,Secondary completed,58000
+Uruguay,1996,Male,University completed,41280
+Uruguay,2006,Female,Less than primary completed,288862
+Uruguay,2006,Female,Primary completed,423557
+Uruguay,2006,Female,Secondary completed,263584
+Uruguay,2006,Female,University completed,64965
+Uruguay,2006,Male,Less than primary completed,230811
+Uruguay,2006,Male,Primary completed,345710
+Uruguay,2006,Male,Secondary completed,222971
+Uruguay,2006,Male,University completed,55910
+Uruguay,2011,Female,Less than primary completed,149780
+Uruguay,2011,Female,Primary completed,581600
+Uruguay,2011,Female,Secondary completed,277120
+Uruguay,2011,Female,University completed,77990
+Uruguay,2011,Male,Less than primary completed,136430
+Uruguay,2011,Male,Primary completed,541300
+Uruguay,2011,Male,Secondary completed,204020
+Uruguay,2011,Male,University completed,60470
