@@ -22,6 +22,7 @@ packrat/src/
 
 # exclude Python and Jupyter temp files
 .ipynb_checkpoints
+notebooks/.ipynb_checkpoints
 *.pyc
 
 # exclude authentication tokens
