@@ -1,4 +1,4 @@
-Region,Country,Scandinavia,Year,CO2,Fertility_Rate,GDP_per_capita,Internet_per_100,Life_exp,Total_Population
+Region,Country,Scandinavia,Year,CO2_metric_tons_per_capita,Fertility_Rate_births_per_woman,GDP_per_capita,Internet_per_100,Life_exp_birth,Total_Population
 Africa,Algeria,No,1960,0.553763578,7.524,2466.798296,,46.13512195,11124892
 Africa,Algeria,No,1961,0.531809994,7.573,2078.863209,,46.59031707,11404859
 Africa,Algeria,No,1962,0.48495366,7.614,1628.891336,,47.045,11690152
