@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@3.2.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@4"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+      var spec = {"config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}}, "hconcat": [{"vconcat": [{"layer": [{"data": {"url": "https://vega.github.io/vega-datasets/data/world-110m.json", "format": {"feature": "countries", "type": "topojson"}}, "mark": {"type": "geoshape", "fill": "#666666", "stroke": "white"}, "height": 150, "projection": {"type": "mercator"}, "width": 200}, {"data": {"url": "../data/world_bank_filtered_w_lat_long.json"}, "mark": "point", "encoding": {"detail": {"type": "nominal", "field": "Country"}, "fill": {"type": "nominal", "field": "Region"}, "latitude": {"field": "Latitude", "type": "quantitative"}, "longitude": {"field": "Longitude", "type": "quantitative"}, "size": {"type": "quantitative", "field": "Internet_per_100", "scale": {"range": [0, 60]}}}, "transform": [{"filter": {"selection": "Year_"}}]}]}, {"layer": [{"data": {"url": "../data/world_bank_filtered_w_lat_long.json"}, "mark": "line", "encoding": {"color": {"type": "nominal", "field": "Scandinavia"}, "detail": {"type": "nominal", "field": "Country"}, "size": {"type": "nominal", "field": "Scandinavia"}, "tooltip": [{"type": "nominal", "field": "Scandinavia"}, {"type": "nominal", "field": "Country"}, {"type": "quantitative", "field": "Internet_per_100"}, {"type": "quantitative", "field": "Year"}], "x": {"type": "quantitative", "field": "Year"}, "y": {"type": "quantitative", "field": "Internet_per_100"}}, "height": 150, "width": 200}, {"data": {"url": "../data/world_bank_filtered_w_lat_long.json"}, "mark": {"type": "rule", "color": "black"}, "encoding": {"x": {"type": "quantitative", "field": "Year"}}, "transform": [{"filter": {"selection": "Year_"}}]}]}]}, {"layer": [{"data": {"url": "../data/world_bank_filtered_w_lat_long.json"}, "mark": "point", "encoding": {"fill": {"type": "nominal", "field": "Region"}, "size": {"type": "quantitative", "field": "Fertility_Rate_births_per_woman"}, "tooltip": [{"type": "nominal", "field": "Scandinavia"}, {"type": "nominal", "field": "Country"}, {"type": "quantitative", "field": "Internet_per_100"}, {"type": "quantitative", "field": "Year"}, {"type": "quantitative", "field": "CO2_metric_tons_per_capita"}, {"type": "quantitative", "field": "Fertility_Rate_births_per_woman"}], "x": {"type": "quantitative", "field": "Internet_per_100"}, "y": {"type": "quantitative", "field": "Life_exp_birth", "scale": {"domain": [30, 90]}}}, "height": 300, "selection": {"Year_": {"type": "single", "bind": {"input": "range", "max": 2014, "min": 1991, "step": 1}, "fields": ["Year"]}}, "transform": [{"filter": {"selection": "Year_"}}], "width": 200}, {"data": {"url": "../data/world_bank_filtered_w_lat_long.json"}, "mark": {"type": "point", "color": "#000000", "strokeWidth": 1}, "encoding": {"detail": {"type": "nominal", "field": "Region"}, "size": {"type": "quantitative", "field": "Fertility_Rate_births_per_woman"}, "tooltip": [{"type": "nominal", "field": "Scandinavia"}, {"type": "nominal", "field": "Country"}, {"type": "quantitative", "field": "Internet_per_100"}, {"type": "quantitative", "field": "Year"}, {"type": "quantitative", "field": "CO2_metric_tons_per_capita"}, {"type": "quantitative", "field": "Fertility_Rate_births_per_woman"}], "x": {"type": "quantitative", "field": "Internet_per_100"}, "y": {"type": "quantitative", "field": "Life_exp_birth", "scale": {"domain": [30, 90]}}}, "height": 300, "transform": [{"filter": {"selection": "Year_"}}], "width": 200}]}], "$schema": "https://vega.github.io/schema/vega-lite/v3.2.1.json"};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+
+  </script>
+</body>
+</html>
