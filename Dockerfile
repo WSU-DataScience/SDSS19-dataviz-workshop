@@ -9,6 +9,6 @@ RUN chown -R ${NB_UID} ${HOME}
 USER $NB_UID
 
 # Additional python library
-RUN pip install --no-cache-dir simplegeneric
+RUN pip install --no-cache-dir simplegeneric altair
 
 #USER ${NB_USER}
