@@ -9,6 +9,6 @@ RUN chown -R ${NB_UID} ${HOME}
 USER $NB_UID
 
 # Additional python library
-RUN pip install --no-cache-dir simplegeneric altair
+RUN pip install --no-cache-dir simplegeneric altair vega_datasets notebook vega
 
 #USER ${NB_USER}
